@@ -1,0 +1,3406 @@
+[
+  {
+    "id": "47fa841b16789b25db9f345bc127a2ec",
+    "long": -74.0525481696,
+    "lat": 40.7827789131,
+    "timestamp": "2024-12-24T12:44:00Z",
+    "provider": "TomTom",
+    "title": "Lincoln Tunnel (NJ-3) exit [17]",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:44:00Z"
+      }
+    ]
+  },
+  {
+    "id": "61be7c16c674d0fb9b5b41334306d61a",
+    "long": -74.0436995621,
+    "lat": 40.749954025,
+    "timestamp": "2024-12-24T06:28:56Z",
+    "provider": "TomTom",
+    "title": "Congress St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T06:28:56Z"
+      }
+    ]
+  },
+  {
+    "id": "13be59d700349fcdf87bfdfcd0939cd5",
+    "long": -74.0428305264,
+    "lat": 40.7303068116,
+    "timestamp": "2024-12-24T02:15:30Z",
+    "provider": "TomTom",
+    "title": "I-78/Jersey Ave (12th St)",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-24T02:15:30Z"
+      }
+    ]
+  },
+  {
+    "id": "2b26c266fafb485b110b811ce261b269",
+    "long": -74.0401791628,
+    "lat": 40.7086091145,
+    "timestamp": "2024-12-24T06:21:12Z",
+    "provider": "TomTom",
+    "title": "Freedom Way",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T06:21:12Z"
+      }
+    ]
+  },
+  {
+    "id": "20c639de9f1b05cc2abbca51e35a9fe1",
+    "long": -74.0399753149,
+    "lat": 40.7085849701,
+    "timestamp": "2024-12-24T06:21:12Z",
+    "provider": "TomTom",
+    "title": "Jersey City",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T06:21:12Z"
+      }
+    ]
+  },
+  {
+    "id": "94c5a29b3c03b29dbbaee7e5a40f99b0",
+    "long": -74.0389037724,
+    "lat": 40.7368326262,
+    "timestamp": "2024-12-24T03:15:00Z",
+    "provider": "TomTom",
+    "title": "Henderson St (Newark St)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 3
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T03:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "0ad50d32ff16c971e6e4671c48864389",
+    "long": -74.0386623736,
+    "lat": 40.7364933499,
+    "timestamp": "2024-12-09T05:00:00Z",
+    "provider": "TomTom",
+    "title": "Holland Tunnel/14th St/Boyle Plz (Marin Blvd)",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-09T05:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "0858bce4068bf03df03b68c86a5e88c9",
+    "long": -74.0396829541,
+    "lat": 40.7299755687,
+    "timestamp": "2024-12-24T11:56:00Z",
+    "provider": "TomTom",
+    "title": "12th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 3
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T11:56:00Z"
+      }
+    ]
+  },
+  {
+    "id": "b422091a3fa1dc8e18b2621958a473fb",
+    "long": -74.0373118813,
+    "lat": 40.7298026104,
+    "timestamp": "2024-12-24T08:16:00Z",
+    "provider": "TomTom",
+    "title": "12th St",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-24T08:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "2837458685fa928906afd31c6c8f964e",
+    "long": -74.0379784103,
+    "lat": 40.7138354077,
+    "timestamp": "2024-12-24T12:28:30Z",
+    "provider": "TomTom",
+    "title": "Washington St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:28:30Z"
+      }
+    ]
+  },
+  {
+    "id": "ae2315eced79b6d77a4307ff7167f97e",
+    "long": -74.0320346351,
+    "lat": 40.7817838058,
+    "timestamp": "2024-12-02T06:51:30Z",
+    "provider": "TomTom",
+    "title": "Bergen Tpke",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-02T06:51:30Z"
+      }
+    ]
+  },
+  {
+    "id": "5f6f800d428edb3239bc5319dcc756b2",
+    "long": -74.031417727,
+    "lat": 40.7827266163,
+    "timestamp": "2024-10-01T13:54:34Z",
+    "provider": "TomTom",
+    "title": "44th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-10-01T13:54:34Z"
+      }
+    ]
+  },
+  {
+    "id": "d78a486a7bfc5ecac3227dfdda4e4043",
+    "long": -74.0289943512,
+    "lat": 40.7365590841,
+    "timestamp": "2024-12-24T05:37:30Z",
+    "provider": "TomTom",
+    "title": "River St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T05:37:30Z"
+      }
+    ]
+  },
+  {
+    "id": "47148956e649f7748d2c81e1ce72f933",
+    "long": -74.028389513,
+    "lat": 40.7549349075,
+    "timestamp": "2024-12-19T11:23:30Z",
+    "provider": "TomTom",
+    "title": "Park Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 4
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-19T11:23:30Z"
+      }
+    ]
+  },
+  {
+    "id": "369852583b56f03d9e54f696dd5706e9",
+    "long": -74.0257435138,
+    "lat": 40.754403781,
+    "timestamp": "2024-12-19T09:59:30Z",
+    "provider": "TomTom",
+    "title": "Washington St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 10
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-19T09:59:30Z"
+      }
+    ]
+  },
+  {
+    "id": "c7495402995718b911d256828e998f57",
+    "long": -74.0151219661,
+    "lat": 40.7000367955,
+    "timestamp": "2024-12-24T11:00:00Z",
+    "provider": "TomTom",
+    "title": "I-478 W",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Major event"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T11:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "bf64c6767145647f82857fdc3c9f08d4",
+    "long": -74.0132041867,
+    "lat": 40.7040493536,
+    "timestamp": "2024-12-24T12:43:30Z",
+    "provider": "TomTom",
+    "title": "Whitehall St / Broadway",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "5ab685f3e57c0b59fd2ce517a5c8109a",
+    "long": -74.0358004565,
+    "lat": 40.7296403226,
+    "timestamp": "2024-12-14T16:02:44Z",
+    "provider": "TomTom",
+    "title": "14th St/Boyle Plz (Holland Tunnel (Westbound))",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-14T16:02:44Z"
+      }
+    ]
+  },
+  {
+    "id": "2d903870c1480f85aba8a3b19ad2be43",
+    "long": -74.0122680957,
+    "lat": 40.6535714893,
+    "timestamp": "2024-12-24T12:44:00Z",
+    "provider": "TomTom",
+    "title": "2nd Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:44:00Z"
+      }
+    ]
+  },
+  {
+    "id": "84de2576e46b052b0b50be096696bed9",
+    "long": -74.0076010521,
+    "lat": 40.7257645441,
+    "timestamp": "2024-12-22T15:09:30Z",
+    "provider": "TomTom",
+    "title": "Laight St/Hudson St (Holland Tunnel (Eastbound))",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-22T15:09:30Z"
+      }
+    ]
+  },
+  {
+    "id": "5fa82252fc482c7a58f49cc802e2e375",
+    "long": -74.007484376,
+    "lat": 40.6543788911,
+    "timestamp": "2024-12-20T11:59:00Z",
+    "provider": "TomTom",
+    "title": "3rd Ave/Exit 21 (I-278)",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-20T11:59:00Z"
+      }
+    ]
+  },
+  {
+    "id": "3dc01b7b446d1b3b9bf93ffd8682a557",
+    "long": -74.0053761597,
+    "lat": 40.730120452,
+    "timestamp": "2024-12-24T12:41:00Z",
+    "provider": "TomTom",
+    "title": "7th Ave S",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "bb3716d75662649e05a19d7a1542b5b8",
+    "long": -74.0049765105,
+    "lat": 40.7157531838,
+    "timestamp": "2024-12-24T12:35:00Z",
+    "provider": "TomTom",
+    "title": "Broadway",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:35:00Z"
+      }
+    ]
+  },
+  {
+    "id": "2a478a71b8a11f74659ed51515705d67",
+    "long": -74.0049537118,
+    "lat": 40.6546471115,
+    "timestamp": "2024-12-24T12:40:30Z",
+    "provider": "TomTom",
+    "title": "4th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:40:30Z"
+      }
+    ]
+  },
+  {
+    "id": "eae7bf6b277bc37344ef27ed0703e3fa",
+    "long": -74.0031459029,
+    "lat": 40.6790659042,
+    "timestamp": "2024-12-23T01:11:30Z",
+    "provider": "TomTom",
+    "title": "NY-27/Prospect Expy/Exit 24 (I-278)",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-23T01:11:30Z"
+      }
+    ]
+  },
+  {
+    "id": "afae302f7ed58fc714ad2625ca29b8a4",
+    "long": -74.0024833973,
+    "lat": 40.7551159276,
+    "timestamp": "2024-12-22T01:21:00Z",
+    "provider": "TomTom",
+    "title": "NY-495/Lincoln Tunnel Expy (W 33rd St)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-22T01:21:00Z"
+      }
+    ]
+  },
+  {
+    "id": "abceffcea8dffed6a5aa9a09ea044753",
+    "long": -74.0019094045,
+    "lat": 40.7082818936,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "South St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 2
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "78f535ce2851768c7c8afc663d35c0c2",
+    "long": -74.0013675983,
+    "lat": 40.7135739058,
+    "timestamp": "2024-04-07T20:18:24Z",
+    "provider": "TomTom",
+    "title": "Cardinal Hayes Pl",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-04-07T20:18:24Z"
+      }
+    ]
+  },
+  {
+    "id": "adf622d24f5d61c37857328db5855f78",
+    "long": -74.00260812,
+    "lat": 40.7143114579,
+    "timestamp": "2024-05-07T21:05:40Z",
+    "provider": "TomTom",
+    "title": "Centre St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-05-07T21:05:40Z"
+      }
+    ]
+  },
+  {
+    "id": "a52eb1e238ac75d800273a753c4021a7",
+    "long": -74.0029045041,
+    "lat": 40.680539794,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "Hicks St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "5694a9bf2593aabfd1437ad5cc5a5edc",
+    "long": -74.0013193185,
+    "lat": 40.680117342,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "Henry St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "3f921f56e5cf3ae60a1ad040bb501817",
+    "long": -74.0005776878,
+    "lat": 40.7576868558,
+    "timestamp": "2024-10-26T06:36:00Z",
+    "provider": "TomTom",
+    "title": "W 37th St (11th Ave)",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-10-26T06:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "683c5b6d5696f562aaa73f97cabcc009",
+    "long": -73.9994659121,
+    "lat": 40.7572134016,
+    "timestamp": "2024-10-26T03:06:30Z",
+    "provider": "TomTom",
+    "title": "Dyer Ave",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-10-26T03:06:30Z"
+      }
+    ]
+  },
+  {
+    "id": "b79aee9d522f4eb90181957cf6e2f363",
+    "long": -74.000709116,
+    "lat": 40.6814356681,
+    "timestamp": "2024-12-24T12:43:00Z",
+    "provider": "TomTom",
+    "title": "Summit St / Henry St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:00Z"
+      }
+    ]
+  },
+  {
+    "id": "d0ac10c0f5c58b4ffe80b11c80929d19",
+    "long": -73.9984909291,
+    "lat": 40.658028007,
+    "timestamp": "2024-12-24T12:37:30Z",
+    "provider": "TomTom",
+    "title": "5th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:37:30Z"
+      }
+    ]
+  },
+  {
+    "id": "60d7cbfc36eff250b8aaad44e351ca06",
+    "long": -74.0221962924,
+    "lat": 40.7664630214,
+    "timestamp": "2024-12-01T16:18:21Z",
+    "provider": "TomTom",
+    "title": "Toll Plaza (NJ-495)",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-01T16:18:21Z"
+      }
+    ]
+  },
+  {
+    "id": "c5aff516c7862638f96d3cbb7cd757aa",
+    "long": -73.9975709314,
+    "lat": 40.670342037,
+    "timestamp": "2024-12-24T11:08:30Z",
+    "provider": "TomTom",
+    "title": "NY-27/Prospect Expy/Exit 24 (I-278)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T11:08:30Z"
+      }
+    ]
+  },
+  {
+    "id": "31f725c25dcef802fa7ba3106003cbdf",
+    "long": -74.0001109834,
+    "lat": 40.7583225249,
+    "timestamp": "2024-12-24T12:43:00Z",
+    "provider": "TomTom",
+    "title": "Toll Plaza (NJ-495)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:00Z"
+      }
+    ]
+  },
+  {
+    "id": "93230f7f42d76c96107b3d33d86a2ce3",
+    "long": -73.9970116909,
+    "lat": 40.6406915459,
+    "timestamp": "2024-12-24T12:37:00Z",
+    "provider": "TomTom",
+    "title": "10th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:37:00Z"
+      }
+    ]
+  },
+  {
+    "id": "fcee0dd1cfaf7e5dde2cf5b232b7ba3b",
+    "long": -73.9939606781,
+    "lat": 40.8183838999,
+    "timestamp": "2024-12-24T12:29:00Z",
+    "provider": "TomTom",
+    "title": "Anderson Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:29:00Z"
+      }
+    ]
+  },
+  {
+    "id": "6a87d8b5c56cacde8fdcda6b877da28b",
+    "long": -73.9936455186,
+    "lat": 40.7630163961,
+    "timestamp": "2024-12-24T12:42:30Z",
+    "provider": "TomTom",
+    "title": "10th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:42:30Z"
+      }
+    ]
+  },
+  {
+    "id": "c06442bc5bba7d5d7b936e2220f907db",
+    "long": -73.9917465146,
+    "lat": 40.642087609,
+    "timestamp": "2024-12-24T12:36:00Z",
+    "provider": "TomTom",
+    "title": "12th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "655bfc45a03f7f4569df60bb07935d4d",
+    "long": -73.9925364251,
+    "lat": 40.7534798076,
+    "timestamp": "2024-12-24T06:16:00Z",
+    "provider": "TomTom",
+    "title": "8th Ave",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-24T06:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "3d0df96c67de2606dab258448aff52ac",
+    "long": -73.9910679157,
+    "lat": 40.6642976842,
+    "timestamp": "2024-12-24T12:41:30Z",
+    "provider": "TomTom",
+    "title": "4 Ave exit [2]",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:41:30Z"
+      }
+    ]
+  },
+  {
+    "id": "0d8c2ae1fa16c6e20df545981dccf850",
+    "long": -73.9899628456,
+    "lat": 40.678503978,
+    "timestamp": "2024-11-04T12:26:42Z",
+    "provider": "TomTom",
+    "title": "Bond St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 5
+      },
+      {
+        "eventtype": "Bridge closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-11-04T12:26:42Z"
+      }
+    ]
+  },
+  {
+    "id": "f0f22c219712ae8ec17db80d4a2662ac",
+    "long": -73.9882073398,
+    "lat": 40.6918064381,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "Boerum Pl / Red Hook Ln",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 137
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "b62351c12a5d2a7b1acd62c8b41d967c",
+    "long": -73.9881295557,
+    "lat": 40.6932722291,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "Brooklyn",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 2
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "aa056dd7fae9de8d119e81b76422eb90",
+    "long": -73.9882985349,
+    "lat": 40.7038146282,
+    "timestamp": "2023-11-06T18:44:08Z",
+    "provider": "TomTom",
+    "title": "Manhattan Brg N / Plymouth St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 17
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2023-11-06T18:44:08Z"
+      }
+    ]
+  },
+  {
+    "id": "25d153ee3845148a54248a2ce2d0d034",
+    "long": -73.9878224428,
+    "lat": 40.7352930398,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "E 16th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 6
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "b0f032409ba53ea0aa97f8797f2926a2",
+    "long": -73.9873906071,
+    "lat": 40.7358844647,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "E 17th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 2
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "4446ca5025cbfab42320a226a527590b",
+    "long": -73.9881858821,
+    "lat": 40.6922771166,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "Adams St / Boerum Pl",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 9
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "bab0d2df610b6b1a26c898d400fb2151",
+    "long": -73.9873436685,
+    "lat": 40.6914550476,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "Lawrence St / Gallatin Pl",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 11
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "b175b3c8fa4ebdd67c50eca73eba2a53",
+    "long": -73.9871492083,
+    "lat": 40.6949674071,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "Tillary St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 30
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "8d3a1eebf3233b49babb313b51e8db00",
+    "long": -73.9847392435,
+    "lat": 40.7857199112,
+    "timestamp": "2023-09-03T02:50:00Z",
+    "provider": "TomTom",
+    "title": "Henry Hudson Parkway S",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2023-09-03T02:50:00Z"
+      }
+    ]
+  },
+  {
+    "id": "c1c25942aec4c5cebdc5a925643e3b03",
+    "long": -73.9847633834,
+    "lat": 40.7340056309,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "E 16th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "482378daddd97e626ab873d94631a13a",
+    "long": -73.9848492141,
+    "lat": 40.8140453837,
+    "timestamp": "2024-12-12T00:29:00Z",
+    "provider": "TomTom",
+    "title": "Edgewater Cmns",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-12T00:29:00Z"
+      }
+    ]
+  },
+  {
+    "id": "a1e6ecffbd5c222f0d325b3dbc1a27b6",
+    "long": -73.9838004704,
+    "lat": 40.785455709,
+    "timestamp": "2024-06-19T16:04:32Z",
+    "provider": "TomTom",
+    "title": "W 79th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 3
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-06-19T16:04:32Z"
+      }
+    ]
+  },
+  {
+    "id": "a4e90b5f6ee3c964aaea5e760e07b4a2",
+    "long": -73.9833230372,
+    "lat": 40.8145590325,
+    "timestamp": "2024-10-11T16:02:30Z",
+    "provider": "TomTom",
+    "title": "River Rd",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-10-11T16:02:30Z"
+      }
+    ]
+  },
+  {
+    "id": "240650ee239aca28cf0ac1a7aeb0d41b",
+    "long": -73.9831460114,
+    "lat": 40.7817998632,
+    "timestamp": "2024-12-24T03:47:00Z",
+    "provider": "TomTom",
+    "title": "W 79th St (W End Ave)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T03:47:00Z"
+      }
+    ]
+  },
+  {
+    "id": "d88df96ae13610982bc5fc8727708032",
+    "long": -73.9837884004,
+    "lat": 40.7857185784,
+    "timestamp": "2024-12-20T19:43:15Z",
+    "provider": "TomTom",
+    "title": "Henry Hudson Pkwy N",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-20T19:43:15Z"
+      }
+    ]
+  },
+  {
+    "id": "07d3c9dff252f5043e34a251266884df",
+    "long": -73.9835188384,
+    "lat": 40.781125322,
+    "timestamp": "2024-12-24T05:13:47Z",
+    "provider": "TomTom",
+    "title": "W 72nd St (W End Ave)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T05:13:47Z"
+      }
+    ]
+  },
+  {
+    "id": "e660dd2d5c115da4e0643b45c6c96cfb",
+    "long": -73.9828026886,
+    "lat": 40.7022965183,
+    "timestamp": "2024-12-24T01:00:00Z",
+    "provider": "TomTom",
+    "title": "Front St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "dbb6b7159a55217e32932f87c643637c",
+    "long": -73.9827396567,
+    "lat": 40.7029603581,
+    "timestamp": "2024-12-24T01:00:00Z",
+    "provider": "TomTom",
+    "title": "Water St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "d047ce7f0d00090ad66d41f9867f3b83",
+    "long": -73.9827222223,
+    "lat": 40.7850024441,
+    "timestamp": "2022-10-19T19:20:21Z",
+    "provider": "TomTom",
+    "title": "Broadway (W 79th St)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 2
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2022-10-19T19:20:21Z"
+      }
+    ]
+  },
+  {
+    "id": "2fdafd82790d0419056e148e15468c6d",
+    "long": -73.9825197156,
+    "lat": 40.7583198583,
+    "timestamp": "2024-12-24T12:44:00Z",
+    "provider": "TomTom",
+    "title": "Avenue of the Americas",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:44:00Z"
+      }
+    ]
+  },
+  {
+    "id": "fb7b95bdded06bce9c58090c85bcbd00",
+    "long": -73.9826846714,
+    "lat": 40.6884415553,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "Livingston St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 7
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "54fea536fb5d16655d870b0102c347f9",
+    "long": -73.9802425201,
+    "lat": 40.6964452665,
+    "timestamp": "2024-12-24T12:25:00Z",
+    "provider": "TomTom",
+    "title": "Flushing Ave/Exit 30 (I-278)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:25:00Z"
+      }
+    ]
+  },
+  {
+    "id": "7beff49eb40c66f14a65b10ae381d2d5",
+    "long": -73.9789684708,
+    "lat": 40.6429995818,
+    "timestamp": "2024-12-24T05:37:42Z",
+    "provider": "TomTom",
+    "title": "Church Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T05:37:42Z"
+      }
+    ]
+  },
+  {
+    "id": "320f10324c2bafec4427215418e2174a",
+    "long": -73.9782362278,
+    "lat": 40.6428507566,
+    "timestamp": "2024-12-24T05:37:42Z",
+    "provider": "TomTom",
+    "title": "E 2nd St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T05:37:42Z"
+      }
+    ]
+  },
+  {
+    "id": "8749761ecb0a72e1669f7043cee448d3",
+    "long": -73.9791025813,
+    "lat": 40.6474306039,
+    "timestamp": "2024-12-24T12:43:30Z",
+    "provider": "TomTom",
+    "title": "McDonald Ave (Caton Ave)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "46e07fa1b29661e16273ce0995a71f2f",
+    "long": -73.9775911565,
+    "lat": 40.6540784297,
+    "timestamp": "2023-08-15T15:41:02Z",
+    "provider": "TomTom",
+    "title": "Prospect Expy W",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2023-08-15T15:41:02Z"
+      }
+    ]
+  },
+  {
+    "id": "458d0e801bd81f1ad78dc09c4c01d98c",
+    "long": -73.9724439974,
+    "lat": 40.6960604098,
+    "timestamp": "2024-12-24T12:36:30Z",
+    "provider": "TomTom",
+    "title": "Brooklyn Queens Expy",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:36:30Z"
+      }
+    ]
+  },
+  {
+    "id": "b6a2d8653afef3c764603806bbb84ba5",
+    "long": -73.9698435957,
+    "lat": 40.7846255883,
+    "timestamp": "2024-12-24T12:41:00Z",
+    "provider": "TomTom",
+    "title": "Central Park W / West Dr",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "5722816ff33369435ee3454e55e85f39",
+    "long": -73.9672324653,
+    "lat": 40.8036062309,
+    "timestamp": "2024-12-24T12:32:30Z",
+    "provider": "TomTom",
+    "title": "Broadway",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:32:30Z"
+      }
+    ]
+  },
+  {
+    "id": "bdcd3279aca92b80c0067581ca29dcfc",
+    "long": -73.9735396798,
+    "lat": 40.6917071668,
+    "timestamp": "2022-08-01T13:36:11Z",
+    "provider": "TomTom",
+    "title": "Washington Park",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Restrictions"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2022-08-01T13:36:11Z"
+      }
+    ]
+  },
+  {
+    "id": "ee6137e7692ecff8b7bb1093130a1176",
+    "long": -73.9670420284,
+    "lat": 40.8027050215,
+    "timestamp": "2024-12-24T12:29:30Z",
+    "provider": "TomTom",
+    "title": "Broadway",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:29:30Z"
+      }
+    ]
+  },
+  {
+    "id": "a2e9cf742148613fe4c88e9b03bc33ff",
+    "long": -73.9627853627,
+    "lat": 40.7151094205,
+    "timestamp": "2024-12-24T06:40:00Z",
+    "provider": "TomTom",
+    "title": "Grand St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 9
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T06:40:00Z"
+      }
+    ]
+  },
+  {
+    "id": "1abe43a260c6f813f340d0a0a618cc44",
+    "long": -73.9611653085,
+    "lat": 40.7431023209,
+    "timestamp": "2024-12-24T11:00:00Z",
+    "provider": "TomTom",
+    "title": "I-495/Queens Midtown Tunnel (Queens Midtown Tunnel/I-495)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Major event"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T11:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "df6bec3950fe80fb62519a2bd8dfa40a",
+    "long": -73.9590865965,
+    "lat": 40.7657508694,
+    "timestamp": "2024-12-24T12:42:30Z",
+    "provider": "TomTom",
+    "title": "2nd Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:42:30Z"
+      }
+    ]
+  },
+  {
+    "id": "62f71e0c04c0769509ff3ad00daeeaeb",
+    "long": -73.9600454862,
+    "lat": 40.7346681383,
+    "timestamp": "2024-12-24T12:34:00Z",
+    "provider": "TomTom",
+    "title": "West St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:34:00Z"
+      }
+    ]
+  },
+  {
+    "id": "291c855d9c6204c29dc1695d2a08e59a",
+    "long": -73.9568804796,
+    "lat": 40.6604460157,
+    "timestamp": "2024-12-24T12:43:30Z",
+    "provider": "TomTom",
+    "title": "Bedford Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "78a12f3bfcad6cbb59e635eeef992489",
+    "long": -73.952715009,
+    "lat": 40.746878853,
+    "timestamp": "2024-12-24T12:40:30Z",
+    "provider": "TomTom",
+    "title": "Vernon Blvd",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:40:30Z"
+      }
+    ]
+  },
+  {
+    "id": "c187b6f825419912d4cbd517d085d914",
+    "long": -73.9517118628,
+    "lat": 40.7736566752,
+    "timestamp": "2024-12-24T12:43:30Z",
+    "provider": "TomTom",
+    "title": "1st Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "8200cd761ae4c6c59f3f4edd41b72197",
+    "long": -73.9508790369,
+    "lat": 40.7416445488,
+    "timestamp": "2024-12-23T22:06:48Z",
+    "provider": "TomTom",
+    "title": "Long Island Expy W",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 2
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-23T22:06:48Z"
+      }
+    ]
+  },
+  {
+    "id": "6bc89370a6c2c36978fd4f127886b0c2",
+    "long": -73.9549412425,
+    "lat": 40.7775002757,
+    "timestamp": "2024-12-24T12:42:00Z",
+    "provider": "TomTom",
+    "title": "5th Ave (E 84th St)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "e97f77fe42355fb9536da187273bc23c",
+    "long": -73.9477328057,
+    "lat": 40.8045517135,
+    "timestamp": "2024-09-25T06:42:30Z",
+    "provider": "TomTom",
+    "title": "Lenox Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Restrictions"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-09-25T06:42:30Z"
+      }
+    ]
+  },
+  {
+    "id": "e3abef37665285620f0a69e7ddbca1b6",
+    "long": -73.9445651169,
+    "lat": 40.7730733304,
+    "timestamp": "2024-12-24T12:32:30Z",
+    "provider": "TomTom",
+    "title": "96th St/Exit 14 (FDR Dr)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Heavy traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:32:30Z"
+      }
+    ]
+  },
+  {
+    "id": "cc37ba2851929377c766d547e2fc808f",
+    "long": -73.9487305875,
+    "lat": 40.675135118,
+    "timestamp": "2024-12-24T12:40:00Z",
+    "provider": "TomTom",
+    "title": "Nostrand Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:40:00Z"
+      }
+    ]
+  },
+  {
+    "id": "e3e8719df5f19a16d30417123d3d1fc0",
+    "long": -73.9405713077,
+    "lat": 40.7931925955,
+    "timestamp": "2024-12-24T12:29:30Z",
+    "provider": "TomTom",
+    "title": "116th St (2nd Ave)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:29:30Z"
+      }
+    ]
+  },
+  {
+    "id": "993a25da90aeaeecf1b870dc6923e6c0",
+    "long": -73.937265485,
+    "lat": 40.7404670673,
+    "timestamp": "2024-12-24T12:36:30Z",
+    "provider": "TomTom",
+    "title": "Long Island Expy W",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:36:30Z"
+      }
+    ]
+  },
+  {
+    "id": "8163db2f829ab7e981abf3aa065c86e6",
+    "long": -73.9363012309,
+    "lat": 40.7349899579,
+    "timestamp": "2024-12-24T12:35:30Z",
+    "provider": "TomTom",
+    "title": "Greenpoint Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:35:30Z"
+      }
+    ]
+  },
+  {
+    "id": "cbb7610cbe29914d6df10173f9c4a5e0",
+    "long": -73.9352256651,
+    "lat": 40.7411268431,
+    "timestamp": "2024-06-04T14:33:00Z",
+    "provider": "TomTom",
+    "title": "48th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 6
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-06-04T14:33:00Z"
+      }
+    ]
+  },
+  {
+    "id": "5ff57eb2468cf19dcf460a25e7cda757",
+    "long": -73.931195646,
+    "lat": 40.7260770056,
+    "timestamp": "2024-12-24T12:41:30Z",
+    "provider": "TomTom",
+    "title": "I-495/Long Island Expy/Exit 35 (I-278)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Heavy traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:41:30Z"
+      }
+    ]
+  },
+  {
+    "id": "21b91f82bb8851bff0aec27cec43e19b",
+    "long": -73.9292979832,
+    "lat": 40.7423285086,
+    "timestamp": "2024-12-24T12:41:00Z",
+    "provider": "TomTom",
+    "title": "36th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "947d3641fdf4fe991f8591fe390635ca",
+    "long": -73.9265741999,
+    "lat": 40.8200387832,
+    "timestamp": "2024-12-17T05:41:00Z",
+    "provider": "TomTom",
+    "title": "E 149th St (Grand Concourse)",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-17T05:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "5a0e656ec46e6002f10f39e9f64fd0c8",
+    "long": -73.9238624866,
+    "lat": 40.712424518,
+    "timestamp": "2024-12-24T12:23:30Z",
+    "provider": "TomTom",
+    "title": "Scholes St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:23:30Z"
+      }
+    ]
+  },
+  {
+    "id": "9facc15e72f52ea3e0028675574b33fa",
+    "long": -73.924778461,
+    "lat": 40.771359384,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "23rd St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "0286433d31d348112376dd7c5f4a8bb2",
+    "long": -73.9236304755,
+    "lat": 40.7704299967,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "Crescent St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "16adb1a1ba115f016e0f27a23b7521eb",
+    "long": -73.9237002129,
+    "lat": 40.664417024,
+    "timestamp": "2024-12-24T12:25:00Z",
+    "provider": "TomTom",
+    "title": "Rockaway Pkwy",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:25:00Z"
+      }
+    ]
+  },
+  {
+    "id": "dd20b467dc8d5b37a031815a6d194539",
+    "long": -73.9189071054,
+    "lat": 40.737357034,
+    "timestamp": "2024-12-24T12:36:30Z",
+    "provider": "TomTom",
+    "title": "Brooklyn Queens Expy / Laurel Hill Blvd",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:36:30Z"
+      }
+    ]
+  },
+  {
+    "id": "35eeddbf0ba1da2d3215bc48d1ad08c6",
+    "long": -73.9167090351,
+    "lat": 40.7389824367,
+    "timestamp": "2023-10-31T17:15:05Z",
+    "provider": "TomTom",
+    "title": "48th St / 48th Ave",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2023-10-31T17:15:05Z"
+      }
+    ]
+  },
+  {
+    "id": "060b1eb93d0ad6c632a082348efe03ea",
+    "long": -73.9170832033,
+    "lat": 40.7371424319,
+    "timestamp": "2024-03-08T01:01:00Z",
+    "provider": "TomTom",
+    "title": "Brooklyn Queens Expy / Laurel Hill Blvd",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-03-08T01:01:00Z"
+      }
+    ]
+  },
+  {
+    "id": "a1367fe1b8aac38409c24d17990a707f",
+    "long": -73.9090929027,
+    "lat": 40.6763086061,
+    "timestamp": "2024-12-24T12:43:30Z",
+    "provider": "TomTom",
+    "title": "Atlantic Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "a4820fbcc612c1118499829c4fff2f4f",
+    "long": -73.9056636984,
+    "lat": 40.7361701404,
+    "timestamp": "2024-12-24T12:42:30Z",
+    "provider": "TomTom",
+    "title": "59th Pl / Tyler Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:42:30Z"
+      }
+    ]
+  },
+  {
+    "id": "3bee35a892137d0581a81ae144133349",
+    "long": -73.9050414259,
+    "lat": 40.6937027324,
+    "timestamp": "2024-12-24T12:43:30Z",
+    "provider": "TomTom",
+    "title": "Irving Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "2d8894a2a2a3415b0cc91454c03c4185",
+    "long": -73.9050816591,
+    "lat": 40.6912605714,
+    "timestamp": "2024-12-24T12:43:00Z",
+    "provider": "TomTom",
+    "title": "Knickerbocker Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:00Z"
+      }
+    ]
+  },
+  {
+    "id": "18bc084318774a4a099f1d185aeb3b37",
+    "long": -73.8945660586,
+    "lat": 40.6965526015,
+    "timestamp": "2023-10-11T17:09:05Z",
+    "provider": "TomTom",
+    "title": "78th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 2
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2023-10-11T17:09:05Z"
+      }
+    ]
+  },
+  {
+    "id": "8a3f5e61e200b7f241de2b2f09c7295a",
+    "long": -73.8926737602,
+    "lat": 40.7420187271,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "43rd Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "89e12b4639269468e616a4551e7cea7c",
+    "long": -73.8928346927,
+    "lat": 40.7427402147,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "Brooklyn Queens Expy / 41st Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "d9bd312080ea97febec48cc1f7644b5c",
+    "long": -73.8912293906,
+    "lat": 40.6798719169,
+    "timestamp": "2024-12-24T12:28:30Z",
+    "provider": "TomTom",
+    "title": "Jamaica Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:28:30Z"
+      }
+    ]
+  },
+  {
+    "id": "5fe1e2735a0047e6c30398c24ec1a6c1",
+    "long": -73.8906433279,
+    "lat": 40.8201648848,
+    "timestamp": "2024-12-12T06:49:00Z",
+    "provider": "TomTom",
+    "title": "Bronx River Ave (Bronx) (South) (I-278)",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-12T06:49:00Z"
+      }
+    ]
+  },
+  {
+    "id": "d9e51e922cbeeb3f4253391112129cf8",
+    "long": -73.8902034457,
+    "lat": 40.6765714621,
+    "timestamp": "2024-12-24T12:10:00Z",
+    "provider": "TomTom",
+    "title": "Atlantic Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:10:00Z"
+      }
+    ]
+  },
+  {
+    "id": "96eae6f3a7bea093a7a3a4eaaf8dbfe4",
+    "long": -73.8898856039,
+    "lat": 40.8165545933,
+    "timestamp": "2024-12-24T12:42:30Z",
+    "provider": "TomTom",
+    "title": "Barretto St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:42:30Z"
+      }
+    ]
+  },
+  {
+    "id": "a46324efc07870e7e539fc51771ecaa0",
+    "long": -73.8879275913,
+    "lat": 40.7013564433,
+    "timestamp": "2024-12-24T12:42:00Z",
+    "provider": "TomTom",
+    "title": "Myrtle Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "c7c88175830022d6ad7988e8d3ee1bb5",
+    "long": -73.8872489924,
+    "lat": 40.8100878016,
+    "timestamp": "2024-12-24T12:17:30Z",
+    "provider": "TomTom",
+    "title": "Oak Point Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:17:30Z"
+      }
+    ]
+  },
+  {
+    "id": "85232df1f307fb6c53dd8e9bbf02a732",
+    "long": -73.8871001298,
+    "lat": 40.7494524492,
+    "timestamp": "2024-12-24T12:43:00Z",
+    "provider": "TomTom",
+    "title": "37th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:00Z"
+      }
+    ]
+  },
+  {
+    "id": "214de319a6805314c8f64905b8707e62",
+    "long": -73.8863571579,
+    "lat": 40.7160294162,
+    "timestamp": "2024-11-25T00:07:00Z",
+    "provider": "TomTom",
+    "title": "Juniper Blvd S / 69th Pl",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 2
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-11-25T00:07:00Z"
+      }
+    ]
+  },
+  {
+    "id": "c534c072a4c19d63a922b82eae2a0d22",
+    "long": -73.8840155895,
+    "lat": 40.6662610733,
+    "timestamp": "2024-11-03T06:09:00Z",
+    "provider": "TomTom",
+    "title": "Warwick St",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-11-03T06:09:00Z"
+      }
+    ]
+  },
+  {
+    "id": "40aafb9d7020b5bfc78b11cd3f869153",
+    "long": -73.8849034006,
+    "lat": 40.6661323272,
+    "timestamp": "2024-10-16T13:58:22Z",
+    "provider": "TomTom",
+    "title": "Barbey St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-10-16T13:58:22Z"
+      }
+    ]
+  },
+  {
+    "id": "d39082e64c166b6dc467f9dfecb88857",
+    "long": -73.8800512845,
+    "lat": 40.7307171947,
+    "timestamp": "2024-12-24T12:37:30Z",
+    "provider": "TomTom",
+    "title": "57th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:37:30Z"
+      }
+    ]
+  },
+  {
+    "id": "2afdb71990cfc8bbe2e248705bc1892f",
+    "long": -73.8764061625,
+    "lat": 40.7022965183,
+    "timestamp": "2024-12-24T12:33:30Z",
+    "provider": "TomTom",
+    "title": "Myrtle Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:33:30Z"
+      }
+    ]
+  },
+  {
+    "id": "7558dc550a5bf2e928cfe22e77beadf9",
+    "long": -73.872704714,
+    "lat": 40.755063609,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "Junction Blvd",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Restrictions"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "601fab06533ee98a1b0e98b38d7f9738",
+    "long": -73.8971208627,
+    "lat": 40.7524712447,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "Brooklyn Queens Expy",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Restrictions"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "da1c99b2c98c036e2a26040668b19836",
+    "long": -73.8732237215,
+    "lat": 40.7342335809,
+    "timestamp": "2024-12-24T01:15:30Z",
+    "provider": "TomTom",
+    "title": "Queens Blvd",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-24T01:15:30Z"
+      }
+    ]
+  },
+  {
+    "id": "bc4476b590318a9d1da643e93d57eea3",
+    "long": -73.8700761492,
+    "lat": 40.7272356858,
+    "timestamp": "2024-12-24T07:12:22Z",
+    "provider": "TomTom",
+    "title": "Woodhaven Blvd / 61st Rd",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T07:12:22Z"
+      }
+    ]
+  },
+  {
+    "id": "1876b9684903e856378bb94829eb9cf8",
+    "long": -73.8872342403,
+    "lat": 40.727683628,
+    "timestamp": "2024-12-24T11:34:00Z",
+    "provider": "TomTom",
+    "title": "74th St (I-495)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T11:34:00Z"
+      }
+    ]
+  },
+  {
+    "id": "3d4de3d0dc534de6dff81a5f90937c43",
+    "long": -73.8613898153,
+    "lat": 40.7599881751,
+    "timestamp": "2024-12-24T12:33:30Z",
+    "provider": "TomTom",
+    "title": "108th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:33:30Z"
+      }
+    ]
+  },
+  {
+    "id": "11e48276e1dc7277da142dbfbdd78f43",
+    "long": -73.8601868446,
+    "lat": 40.6834848697,
+    "timestamp": "2024-12-24T11:24:00Z",
+    "provider": "TomTom",
+    "title": "Rockaway Blvd",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T11:24:00Z"
+      }
+    ]
+  },
+  {
+    "id": "3f4c6227fa26076c2b107558a07032bc",
+    "long": -73.8586003179,
+    "lat": 40.7358335282,
+    "timestamp": "2024-12-24T10:39:00Z",
+    "provider": "TomTom",
+    "title": "108th St/Exit 21 (I-495)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T10:39:00Z"
+      }
+    ]
+  },
+  {
+    "id": "272f8147917082e79c6f42ca5be4cb24",
+    "long": -73.8541746731,
+    "lat": 40.7404603355,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "108th St / Otis Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "6aafb521bedf07d1144ec913dccec959",
+    "long": -73.8551603849,
+    "lat": 40.7470384317,
+    "timestamp": "2024-12-24T12:00:00Z",
+    "provider": "TomTom",
+    "title": "109th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "d91ccdfad149ed6178cd5988e06a477c",
+    "long": -73.8528805072,
+    "lat": 40.7304208248,
+    "timestamp": "2024-12-24T12:43:30Z",
+    "provider": "TomTom",
+    "title": "65th Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "bd5e14e3bb3f34d38d80a53ebb068ba4",
+    "long": -73.856458574,
+    "lat": 40.7277560404,
+    "timestamp": "2024-12-24T12:43:30Z",
+    "provider": "TomTom",
+    "title": "62nd Dr/63rd Ave (NY-25/Queens Blvd Frontage)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "5b5411a6106ef03a1b536bae20556d22",
+    "long": -73.8521053488,
+    "lat": 40.7373744358,
+    "timestamp": "2024-12-15T17:09:13Z",
+    "provider": "TomTom",
+    "title": "Grand Central Pkwy/Exit 22 (I-495)",
+    "probabilityOfOccurrence": "probable",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Roadworks"
+      },
+      {
+        "reporter_reliability": "Medium"
+      },
+      {
+        "timestamp": "2024-12-15T17:09:13Z"
+      }
+    ]
+  },
+  {
+    "id": "def43327320104601aba33d3b2a84c92",
+    "long": -73.8514549131,
+    "lat": 40.7380852406,
+    "timestamp": "2024-10-19T20:27:46Z",
+    "provider": "TomTom",
+    "title": "Horace Harding Expy / Saultell Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-10-19T20:27:46Z"
+      }
+    ]
+  },
+  {
+    "id": "b5512045290c857691ac4f6fe929253a",
+    "long": -73.848193347,
+    "lat": 40.7751466887,
+    "timestamp": "2024-12-24T12:36:00Z",
+    "provider": "TomTom",
+    "title": "Graham Ct",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "cb000908389268c2b08c16186b191559",
+    "long": -73.8466524179,
+    "lat": 40.7084481729,
+    "timestamp": "2024-09-10T22:39:43Z",
+    "provider": "TomTom",
+    "title": "Union Tpke",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-09-10T22:39:43Z"
+      }
+    ]
+  },
+  {
+    "id": "5bb07806911a06bf870e30d2d5443ae4",
+    "long": -73.8432299192,
+    "lat": 40.7553801235,
+    "timestamp": "2024-11-04T15:44:42Z",
+    "provider": "TomTom",
+    "title": "Roosevelt Ave/Willets Point Blvd (126th St)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-11-04T15:44:42Z"
+      }
+    ]
+  },
+  {
+    "id": "e2ced9cd15379656f66dcb37d9befc18",
+    "long": -73.845139652,
+    "lat": 40.7590668189,
+    "timestamp": "2024-11-04T15:04:30Z",
+    "provider": "TomTom",
+    "title": "NY-25A/Northern Blvd (Shea Rd/126th St)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": 1
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-11-04T15:04:30Z"
+      }
+    ]
+  },
+  {
+    "id": "1d03ef4508e59dec25641c8b05ae2fe8",
+    "long": -73.8391073639,
+    "lat": 40.7892175238,
+    "timestamp": "2024-12-24T12:30:00Z",
+    "provider": "TomTom",
+    "title": "129th St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "a00843162cd6968dd559559830862de1",
+    "long": -73.8392696376,
+    "lat": 40.6682109901,
+    "timestamp": "2024-05-05T16:49:26Z",
+    "provider": "TomTom",
+    "title": "Tahoe St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-05-05T16:49:26Z"
+      }
+    ]
+  },
+  {
+    "id": "aca36802105ad606316a5f3214ed8beb",
+    "long": -73.8383831675,
+    "lat": 40.6930335255,
+    "timestamp": "2024-12-24T12:34:30Z",
+    "provider": "TomTom",
+    "title": "Atlantic Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:34:30Z"
+      }
+    ]
+  },
+  {
+    "id": "c3146492648c35b80ebcf99afaff47b4",
+    "long": -73.8390161688,
+    "lat": 40.7084937931,
+    "timestamp": "2022-03-22T17:04:01Z",
+    "provider": "TomTom",
+    "title": "Metropolitan Ave",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2022-03-22T17:04:01Z"
+      }
+    ]
+  },
+  {
+    "id": "5451200fb4cbd7fd4da02e44c500f625",
+    "long": -73.8360147769,
+    "lat": 40.6732374688,
+    "timestamp": "2024-04-26T18:09:24Z",
+    "provider": "TomTom",
+    "title": "Aqueduct Racetrack Interior Rd",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-04-26T18:09:24Z"
+      }
+    ]
+  },
+  {
+    "id": "b0c4760520966e0a8d52872a81042e6b",
+    "long": -73.8361462052,
+    "lat": 40.6731798094,
+    "timestamp": "2024-04-26T18:09:24Z",
+    "provider": "TomTom",
+    "title": "Centreville St",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Closed"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-04-26T18:09:24Z"
+      }
+    ]
+  },
+  {
+    "id": "445b90c2e3f7ca17701b39a9a41846c5",
+    "long": -73.8342378134,
+    "lat": 40.7704286636,
+    "timestamp": "2024-12-24T12:34:00Z",
+    "provider": "TomTom",
+    "title": "Whitestone Expy",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Stationary traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:34:00Z"
+      }
+    ]
+  },
+  {
+    "id": "00a4589c144235fc5921c2d415eac1fa",
+    "long": -73.8201615805,
+    "lat": 40.7092072573,
+    "timestamp": "2024-12-24T12:43:30Z",
+    "provider": "TomTom",
+    "title": "NY-25/Queens Blvd/Exit 9 (I-678)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Slow traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "9531d4270ab0f867b13008960e0f3aa0",
+    "long": -73.8168128426,
+    "lat": 40.7024333282,
+    "timestamp": "2024-12-24T12:41:30Z",
+    "provider": "TomTom",
+    "title": "Jamaica Ave (Van Wyck Expy Frontage)",
+    "probabilityOfOccurrence": "certain",
+    "props": [
+      {
+        "numberOfReports": null
+      },
+      {
+        "eventtype": "Queuing traffic"
+      },
+      {
+        "reporter_reliability": "High"
+      },
+      {
+        "timestamp": "2024-12-24T12:41:30Z"
+      }
+    ]
+  }
+]
