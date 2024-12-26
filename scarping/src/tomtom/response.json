@@ -1,0 +1,7306 @@
+{
+  "incidents": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "61be7c16c674d0fb9b5b41334306d61a",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T06:28:56Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "Congress St",
+        "to": "North St",
+        "length": 205.033,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0436995621,
+            40.749954025
+          ],
+          [
+            -74.0436526234,
+            40.7500264131
+          ],
+          [
+            -74.0427540834,
+            40.7514064082
+          ],
+          [
+            -74.0426615472,
+            40.7515472444
+          ],
+          [
+            -74.0426226552,
+            40.75160763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13be59d700349fcdf87bfdfcd0939cd5",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-24T02:15:30Z",
+        "endTime": null,
+        "from": "I-78/Jersey Ave (12th St)",
+        "to": "Marin Blvd (12th St)",
+        "length": 91.4890478394,
+        "delay": null,
+        "roadNumbers": [
+          "NJ-139",
+          "I-78 E"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 7400,
+              "offset": 176
+            },
+            {
+              "location": 7401,
+              "offset": 143
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0428305264,
+            40.7303068116
+          ],
+          [
+            -74.0424818392,
+            40.7302746719
+          ],
+          [
+            -74.0423410232,
+            40.7302626036
+          ],
+          [
+            -74.0421733852,
+            40.7302464703
+          ],
+          [
+            -74.0417522783,
+            40.7302102654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20c639de9f1b05cc2abbca51e35a9fe1",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T06:21:12Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "Jersey City",
+        "to": "Freedom Way",
+        "length": 148.3560857896,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-12-24T02:55:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0399753149,
+            40.7085849701
+          ],
+          [
+            -74.0401791628,
+            40.7086091145
+          ],
+          [
+            -74.0417147274,
+            40.7087887993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2b26c266fafb485b110b811ce261b269",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T06:21:12Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "Freedom Way",
+        "to": "Freedom Way",
+        "length": 17.3907798088,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0401791628,
+            40.7086091145
+          ],
+          [
+            -74.0399753149,
+            40.7085849701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "772edc9e846922245f7643660a554b07",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-23T01:00:00Z",
+        "endTime": null,
+        "from": "Jersey Ave/Harrison St (Newark St)",
+        "to": "Henderson St (Newark St)",
+        "length": 26.8988724515,
+        "delay": null,
+        "roadNumbers": [
+          "County Hwy-636"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-12-11T00:19:33Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 51447,
+              "offset": 59
+            },
+            {
+              "location": 51446,
+              "offset": 287
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0395770068,
+            40.7367682896
+          ],
+          [
+            -74.039373159,
+            40.7367990924
+          ],
+          [
+            -74.0392631884,
+            40.7368125568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "94c5a29b3c03b29dbbaee7e5a40f99b0",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T03:15:00Z",
+        "endTime": null,
+        "from": "Henderson St (Newark St)",
+        "to": "Jersey Ave/Harrison St (Newark St)",
+        "length": 135.6133261506,
+        "delay": null,
+        "roadNumbers": [
+          "County Hwy-636"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 3,
+        "lastReportTime": "2024-12-23T23:19:20Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 51446,
+              "offset": 286
+            },
+            {
+              "location": 51447,
+              "offset": 0
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0389037724,
+            40.7368326262
+          ],
+          [
+            -74.0390392239,
+            40.7368299588
+          ],
+          [
+            -74.0390700693,
+            40.7368272913
+          ],
+          [
+            -74.0392269786,
+            40.736816558
+          ],
+          [
+            -74.0392631884,
+            40.7368125568
+          ],
+          [
+            -74.039373159,
+            40.7367990924
+          ],
+          [
+            -74.0395770068,
+            40.7367682896
+          ],
+          [
+            -74.039900213,
+            40.736721355
+          ],
+          [
+            -74.0400303002,
+            40.7367025557
+          ],
+          [
+            -74.0401496585,
+            40.7366851537
+          ],
+          [
+            -74.0402515824,
+            40.7366703556
+          ],
+          [
+            -74.0403588708,
+            40.736655621
+          ],
+          [
+            -74.040490299,
+            40.7366368217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "92988a7d953e019d299b8026f963dda7",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-23T01:00:00Z",
+        "endTime": null,
+        "from": "Jersey Ave/Harrison St (Newark St)",
+        "to": "Henderson St (Newark St)",
+        "length": 42.9773461057,
+        "delay": null,
+        "roadNumbers": [
+          "County Hwy-636"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-12-11T00:19:33Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 51447,
+              "offset": 0
+            },
+            {
+              "location": 51446,
+              "offset": 330
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0390700693,
+            40.7368272913
+          ],
+          [
+            -74.0390392239,
+            40.7368299588
+          ],
+          [
+            -74.0389037724,
+            40.7368326262
+          ],
+          [
+            -74.0388487871,
+            40.7368312925
+          ],
+          [
+            -74.0386610325,
+            40.7368205591
+          ],
+          [
+            -74.0385617907,
+            40.7368098258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0ad50d32ff16c971e6e4671c48864389",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-09T05:00:00Z",
+        "endTime": "2025-01-21T04:59:00Z",
+        "from": "Holland Tunnel/14th St/Boyle Plz (Marin Blvd)",
+        "to": "Newark St/Observer Hwy (Marin Blvd)",
+        "length": 36.2043766294,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-12-11T00:16:29Z",
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          },
+          {
+            "code": 810,
+            "description": "New roadworks layout",
+            "iconCategory": 9
+          },
+          {
+            "code": 803,
+            "description": "Construction work",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 22423,
+              "offset": 0
+            },
+            {
+              "location": 28008,
+              "offset": 552
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0386623736,
+            40.7364933499
+          ],
+          [
+            -74.038655668,
+            40.736518818
+          ],
+          [
+            -74.0386355515,
+            40.7365858858
+          ],
+          [
+            -74.0386047061,
+            40.7366864874
+          ],
+          [
+            -74.0385886128,
+            40.7367360895
+          ],
+          [
+            -74.0385617907,
+            40.7368098258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b422091a3fa1dc8e18b2621958a473fb",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-24T08:16:00Z",
+        "endTime": null,
+        "from": "12th St",
+        "to": "Holland Tunl E",
+        "length": 46.5199058355,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0373118813,
+            40.7298026104
+          ],
+          [
+            -74.0369243021,
+            40.7297905421
+          ],
+          [
+            -74.0368398125,
+            40.7297972114
+          ],
+          [
+            -74.0368022616,
+            40.7298039443
+          ],
+          [
+            -74.036768734,
+            40.7298213481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ae2315eced79b6d77a4307ff7167f97e",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-02T06:51:30Z",
+        "endTime": null,
+        "from": "Bergen Tpke",
+        "to": "44th St",
+        "length": 108.5593093767,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0320346351,
+            40.7817838058
+          ],
+          [
+            -74.0314646657,
+            40.7826595315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5f6f800d428edb3239bc5319dcc756b2",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-10-01T13:54:34Z",
+        "endTime": null,
+        "from": "44th St",
+        "to": "46th St",
+        "length": 144.8153454723,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-08-29T17:01:05Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.031417727,
+            40.7827266163
+          ],
+          [
+            -74.0310180779,
+            40.7832496466
+          ],
+          [
+            -74.0309483404,
+            40.7833448464
+          ],
+          [
+            -74.030570149,
+            40.7838598117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d78a486a7bfc5ecac3227dfdda4e4043",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T05:37:30Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "River St",
+        "to": "Sinatra Dr",
+        "length": 41.5977372902,
+        "delay": null,
+        "roadNumbers": [
+          "County Hwy-636"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0289943512,
+            40.7365590841
+          ],
+          [
+            -74.0285142358,
+            40.7364718831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "369852583b56f03d9e54f696dd5706e9",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-19T09:59:30Z",
+        "endTime": "2025-01-01T04:59:00Z",
+        "from": "Washington St",
+        "to": "Park Ave",
+        "length": 230.6389267613,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 10,
+        "lastReportTime": "2024-12-22T07:49:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0257435138,
+            40.754403781
+          ],
+          [
+            -74.025822639,
+            40.7544199085
+          ],
+          [
+            -74.0264650281,
+            40.754548611
+          ],
+          [
+            -74.0265642698,
+            40.7545687386
+          ],
+          [
+            -74.0266286428,
+            40.7545821993
+          ],
+          [
+            -74.0266554649,
+            40.7545888662
+          ],
+          [
+            -74.0269317324,
+            40.7546425186
+          ],
+          [
+            -74.0274923141,
+            40.7547538234
+          ],
+          [
+            -74.028196394,
+            40.7549080497
+          ],
+          [
+            -74.028389513,
+            40.7549349075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "47148956e649f7748d2c81e1ce72f933",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-19T11:23:30Z",
+        "endTime": "2025-01-01T04:59:00Z",
+        "from": "Park Ave",
+        "to": "Washington St",
+        "length": 230.6389267613,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 4,
+        "lastReportTime": "2024-12-22T04:55:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.028389513,
+            40.7549349075
+          ],
+          [
+            -74.028196394,
+            40.7549080497
+          ],
+          [
+            -74.0274923141,
+            40.7547538234
+          ],
+          [
+            -74.0269317324,
+            40.7546425186
+          ],
+          [
+            -74.0266554649,
+            40.7545888662
+          ],
+          [
+            -74.0266286428,
+            40.7545821993
+          ],
+          [
+            -74.0265642698,
+            40.7545687386
+          ],
+          [
+            -74.0264650281,
+            40.754548611
+          ],
+          [
+            -74.025822639,
+            40.7544199085
+          ],
+          [
+            -74.0257435138,
+            40.754403781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "68a2e1e2b7baa02e94f4e254808f9044",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:17:00Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "74th St",
+        "to": "83rd St",
+        "length": 223.1983502841,
+        "delay": 228,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.021831512,
+            40.8093233972
+          ],
+          [
+            -74.0213741954,
+            40.8100207445
+          ],
+          [
+            -74.0210818346,
+            40.8104687
+          ],
+          [
+            -74.0209678407,
+            40.8106470312
+          ],
+          [
+            -74.0206499989,
+            40.8111204219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5ab685f3e57c0b59fd2ce517a5c8109a",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-14T16:02:44Z",
+        "endTime": null,
+        "from": "Boyle Plz (Holland Tunnel (Eastbound))",
+        "to": "Laight St (Holland Tunnel (Eastbound))",
+        "length": 2516.7568185297,
+        "delay": null,
+        "roadNumbers": [
+          "NJ-139 E",
+          "I-78 E"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 6840,
+              "offset": 267
+            },
+            {
+              "location": 6835,
+              "offset": 329
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0356730516,
+            40.729609453
+          ],
+          [
+            -74.0356073375,
+            40.729593383
+          ],
+          [
+            -74.0355429645,
+            40.7295786468
+          ],
+          [
+            -74.0354839559,
+            40.7295665149
+          ],
+          [
+            -74.0353042479,
+            40.7295249742
+          ],
+          [
+            -74.034818768,
+            40.729427093
+          ],
+          [
+            -74.0346913631,
+            40.7294002249
+          ],
+          [
+            -74.0345585938,
+            40.7293720864
+          ],
+          [
+            -74.0343587692,
+            40.7293304821
+          ],
+          [
+            -74.0340033765,
+            40.7292554036
+          ],
+          [
+            -74.0337297912,
+            40.7292031282
+          ],
+          [
+            -74.0335541065,
+            40.7291669228
+          ],
+          [
+            -74.0333824451,
+            40.7291320512
+          ],
+          [
+            -74.0332858856,
+            40.7291025152
+          ],
+          [
+            -74.0329653616,
+            40.7290301043
+          ],
+          [
+            -74.0327963824,
+            40.7289737635
+          ],
+          [
+            -74.0326206978,
+            40.7289322224
+          ],
+          [
+            -74.0325053628,
+            40.7289134209
+          ],
+          [
+            -74.0323766167,
+            40.728894683
+          ],
+          [
+            -74.0321311946,
+            40.7288598113
+          ],
+          [
+            -74.0319246645,
+            40.728832943
+          ],
+          [
+            -74.0318401749,
+            40.7288222083
+          ],
+          [
+            -74.0316376682,
+            40.7287994051
+          ],
+          [
+            -74.0314914878,
+            40.7287846688
+          ],
+          [
+            -74.0313882227,
+            40.7287699325
+          ],
+          [
+            -74.0312514301,
+            40.7287538623
+          ],
+          [
+            -74.0311615761,
+            40.7287471293
+          ],
+          [
+            -74.031148165,
+            40.7287457954
+          ],
+          [
+            -74.0307766791,
+            40.7287269939
+          ],
+          [
+            -74.0306331809,
+            40.7287176566
+          ],
+          [
+            -74.0300994213,
+            40.7286881205
+          ],
+          [
+            -74.0297990139,
+            40.7286613156
+          ],
+          [
+            -74.0294315512,
+            40.7286264438
+          ],
+          [
+            -74.0286952849,
+            40.728558034
+          ],
+          [
+            -74.0281789596,
+            40.7285110936
+          ],
+          [
+            -74.0278423424,
+            40.7284775556
+          ],
+          [
+            -74.0275566871,
+            40.7284520845
+          ],
+          [
+            -74.0272361632,
+            40.7284198804
+          ],
+          [
+            -74.0268794294,
+            40.7283742738
+          ],
+          [
+            -74.0266018207,
+            40.7283394653
+          ],
+          [
+            -74.0265173311,
+            40.7283287306
+          ],
+          [
+            -74.0261713262,
+            40.7282831239
+          ],
+          [
+            -74.0260385568,
+            40.7282643223
+          ],
+          [
+            -74.0258534844,
+            40.7282348494
+          ],
+          [
+            -74.0256965752,
+            40.7282107121
+          ],
+          [
+            -74.0253304537,
+            40.7281463036
+          ],
+          [
+            -74.0248785014,
+            40.7280792908
+          ],
+          [
+            -74.0241516228,
+            40.7279598745
+          ],
+          [
+            -74.0228359993,
+            40.7277453056
+          ],
+          [
+            -74.0223491783,
+            40.7276688914
+          ],
+          [
+            -74.0217403169,
+            40.7275710075
+          ],
+          [
+            -74.0211944873,
+            40.7274797931
+          ],
+          [
+            -74.0211073156,
+            40.7274663904
+          ],
+          [
+            -74.0210348959,
+            40.7274569894
+          ],
+          [
+            -74.0209088321,
+            40.7274368536
+          ],
+          [
+            -74.0208498235,
+            40.7274261187
+          ],
+          [
+            -74.0207076664,
+            40.7274033151
+          ],
+          [
+            -74.0205065007,
+            40.7273725079
+          ],
+          [
+            -74.0203522737,
+            40.7273470364
+          ],
+          [
+            -74.0201162393,
+            40.7273094961
+          ],
+          [
+            -74.0198493595,
+            40.7272544877
+          ],
+          [
+            -74.0195690687,
+            40.7272062124
+          ],
+          [
+            -74.019316941,
+            40.7271619389
+          ],
+          [
+            -74.0187872048,
+            40.7270855241
+          ],
+          [
+            -74.0183580513,
+            40.7270171128
+          ],
+          [
+            -74.0172435935,
+            40.7268374136
+          ],
+          [
+            -74.017211407,
+            40.7268320143
+          ],
+          [
+            -74.0167272682,
+            40.7267542652
+          ],
+          [
+            -74.0163343246,
+            40.7266871875
+          ],
+          [
+            -74.0161412056,
+            40.7266617157
+          ],
+          [
+            -74.0159239466,
+            40.7266375778
+          ],
+          [
+            -74.015607446,
+            40.7265946379
+          ],
+          [
+            -74.0154947932,
+            40.726581235
+          ],
+          [
+            -74.0151890214,
+            40.7265396924
+          ],
+          [
+            -74.0147598679,
+            40.7264927506
+          ],
+          [
+            -74.0142126973,
+            40.7264390755
+          ],
+          [
+            -74.0134965475,
+            40.7263572606
+          ],
+          [
+            -74.0129735167,
+            40.7262982496
+          ],
+          [
+            -74.0127656455,
+            40.726276843
+          ],
+          [
+            -74.0126127596,
+            40.7262580408
+          ],
+          [
+            -74.0124866958,
+            40.72624197
+          ],
+          [
+            -74.0123700197,
+            40.7262231677
+          ],
+          [
+            -74.0122439559,
+            40.7262016976
+          ],
+          [
+            -74.0121272798,
+            40.7261788935
+          ],
+          [
+            -74.0119931693,
+            40.7261480858
+          ],
+          [
+            -74.0118872221,
+            40.7261198824
+          ],
+          [
+            -74.0117557938,
+            40.7260796735
+          ],
+          [
+            -74.0116713042,
+            40.7260501996
+          ],
+          [
+            -74.0116257067,
+            40.7260353992
+          ],
+          [
+            -74.0115720625,
+            40.7260153265
+          ],
+          [
+            -74.011450022,
+            40.7259683842
+          ],
+          [
+            -74.0113829668,
+            40.7259429122
+          ],
+          [
+            -74.0113172526,
+            40.7259147087
+          ],
+          [
+            -74.011309206,
+            40.7259107069
+          ],
+          [
+            -74.0112153287,
+            40.7258650985
+          ],
+          [
+            -74.0111536379,
+            40.7258288913
+          ],
+          [
+            -74.0109390612,
+            40.7257216035
+          ],
+          [
+            -74.0108559127,
+            40.7256693253
+          ],
+          [
+            -74.0107901986,
+            40.7256250507
+          ],
+          [
+            -74.0106587703,
+            40.725537899
+          ],
+          [
+            -74.0104857679,
+            40.7254144762
+          ],
+          [
+            -74.0103409286,
+            40.7253219248
+          ],
+          [
+            -74.0102457101,
+            40.7252441739
+          ],
+          [
+            -74.010127693,
+            40.7251610235
+          ],
+          [
+            -74.0101196463,
+            40.7251529562
+          ],
+          [
+            -74.0100981887,
+            40.7251355512
+          ],
+          [
+            -74.0100418623,
+            40.7250899423
+          ],
+          [
+            -74.0099895592,
+            40.7250497328
+          ],
+          [
+            -74.0099318917,
+            40.7250041238
+          ],
+          [
+            -74.0098688598,
+            40.7249598488
+          ],
+          [
+            -74.0096194143,
+            40.7247734107
+          ],
+          [
+            -74.0094879861,
+            40.7246755225
+          ],
+          [
+            -74.0093525345,
+            40.724560229
+          ],
+          [
+            -74.0091902609,
+            40.7244354704
+          ],
+          [
+            -74.008793294,
+            40.7241511419
+          ],
+          [
+            -74.0086725946,
+            40.7240693877
+          ],
+          [
+            -74.0085988338,
+            40.7240197126
+          ],
+          [
+            -74.008421808,
+            40.7238869491
+          ],
+          [
+            -74.0081897969,
+            40.7237113069
+          ],
+          [
+            -74.0081254239,
+            40.7236643631
+          ],
+          [
+            -74.0080382521,
+            40.7235946142
+          ],
+          [
+            -74.0079685147,
+            40.7235436683
+          ],
+          [
+            -74.0079202349,
+            40.7235074598
+          ],
+          [
+            -74.0078397687,
+            40.7234524483
+          ],
+          [
+            -74.0077244337,
+            40.7233652937
+          ],
+          [
+            -74.0076989527,
+            40.7233464907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "84de2576e46b052b0b50be096696bed9",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-22T15:09:30Z",
+        "endTime": null,
+        "from": "Laight St/Hudson St (Holland Tunnel (Eastbound))",
+        "to": "NY--NJ State Border (Holland Tunnel (Eastbound))",
+        "length": 614.3977098475,
+        "delay": null,
+        "roadNumbers": [
+          "I-78 W"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 6837,
+              "offset": 546
+            },
+            {
+              "location": 6838,
+              "offset": 0
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0076010521,
+            40.7257645441
+          ],
+          [
+            -74.0076198275,
+            40.7257725478
+          ],
+          [
+            -74.0076667662,
+            40.7257913501
+          ],
+          [
+            -74.0077083404,
+            40.7258047532
+          ],
+          [
+            -74.0077525969,
+            40.7258194901
+          ],
+          [
+            -74.00779283,
+            40.7258302253
+          ],
+          [
+            -74.0078357453,
+            40.7258409604
+          ],
+          [
+            -74.0078773196,
+            40.7258516955
+          ],
+          [
+            -74.0079309638,
+            40.7258610967
+          ],
+          [
+            -74.0079779024,
+            40.7258677664
+          ],
+          [
+            -74.0080288644,
+            40.7258758336
+          ],
+          [
+            -74.0080825086,
+            40.7258798355
+          ],
+          [
+            -74.0081240828,
+            40.7258839009
+          ],
+          [
+            -74.0081737037,
+            40.7258892367
+          ],
+          [
+            -74.0082380767,
+            40.7258919046
+          ],
+          [
+            -74.0083400006,
+            40.7258986378
+          ],
+          [
+            -74.008767813,
+            40.7259415147
+          ],
+          [
+            -74.0090829725,
+            40.7259683842
+          ],
+          [
+            -74.0099037285,
+            40.7260528675
+          ],
+          [
+            -74.0103918905,
+            40.7261105448
+          ],
+          [
+            -74.010551482,
+            40.7261279496
+          ],
+          [
+            -74.0106909568,
+            40.7261467518
+          ],
+          [
+            -74.0108545716,
+            40.7261681585
+          ],
+          [
+            -74.0109645422,
+            40.7261856268
+          ],
+          [
+            -74.011090606,
+            40.7262030315
+          ],
+          [
+            -74.0112622674,
+            40.7262271695
+          ],
+          [
+            -74.0115170772,
+            40.7262633765
+          ],
+          [
+            -74.0115626748,
+            40.7262687758
+          ],
+          [
+            -74.0115854736,
+            40.7262727777
+          ],
+          [
+            -74.0116632576,
+            40.7262821788
+          ],
+          [
+            -74.0119328196,
+            40.7263183857
+          ],
+          [
+            -74.0123713608,
+            40.7263666616
+          ],
+          [
+            -74.0130070443,
+            40.7264283404
+          ],
+          [
+            -74.0139954384,
+            40.7265208903
+          ],
+          [
+            -74.0147545035,
+            40.7265946379
+          ],
+          [
+            -74.0147960777,
+            40.7265987032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5fa82252fc482c7a58f49cc802e2e375",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-20T11:59:00Z",
+        "endTime": null,
+        "from": "3rd Ave/Exit 21 (I-278)",
+        "to": "NY-27/Prospect Expy/Exit 24 (I-278)",
+        "length": 157.4563277614,
+        "delay": null,
+        "roadNumbers": [
+          "I-278 E"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 4999,
+              "offset": 1902
+            },
+            {
+              "location": 4997,
+              "offset": 1752
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.007484376,
+            40.6543788911
+          ],
+          [
+            -74.00734356,
+            40.6545130014
+          ],
+          [
+            -74.0070015783,
+            40.6548415674
+          ],
+          [
+            -74.0069318409,
+            40.6549085903
+          ],
+          [
+            -74.0063377316,
+            40.6554826065
+          ],
+          [
+            -74.0063283439,
+            40.6554906186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "045b4e96e40290aff67fb8bcb8ec8a5b",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 2,
+        "startTime": "2024-12-24T09:17:00Z",
+        "endTime": "2024-12-24T09:46:30Z",
+        "from": "8th Ave (W 15th St)",
+        "to": "10th Ave (W 15th St)",
+        "length": 277.8461789232,
+        "delay": 197,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 108,
+            "description": "Queuing traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 54183,
+              "offset": null
+            },
+            {
+              "location": 54181,
+              "offset": null
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0048169191,
+            40.7416324826
+          ],
+          [
+            -74.004918843,
+            40.7416847483
+          ],
+          [
+            -74.0071035023,
+            40.7426235553
+          ],
+          [
+            -74.0073972042,
+            40.7427442155
+          ],
+          [
+            -74.0075862999,
+            40.7427992111
+          ],
+          [
+            -74.0077043171,
+            40.7428340754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cb5e850ef4ef14b11edcdeb6be45360d",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:22:30Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "7th Ave",
+        "to": "6th Ave",
+        "length": 237.0566996477,
+        "delay": 214,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0041718478,
+            40.6441234556
+          ],
+          [
+            -74.0063645537,
+            40.6454564848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5515313a51f6760a02815c32173f31e7",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:11:00Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "W Houston St / Avenue of the Americas",
+        "to": "7th Ave S",
+        "length": 103.9672330719,
+        "delay": 144,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0039545889,
+            40.7298616183
+          ],
+          [
+            -74.0042952294,
+            40.730438292
+          ],
+          [
+            -74.0043864246,
+            40.7305925112
+          ],
+          [
+            -74.004456162,
+            40.7307158609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0ea16bad6f406ee9852514bb151b616e",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-23T19:05:00Z",
+        "endTime": "2024-12-26T02:09:07Z",
+        "from": "7th Ave",
+        "to": "8th Ave",
+        "length": 109.1948863035,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 2,
+        "lastReportTime": "2024-12-23T14:49:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0047538872,
+            40.6435655596
+          ],
+          [
+            -74.0043140049,
+            40.6433040364
+          ],
+          [
+            -74.0042335386,
+            40.6432557638
+          ],
+          [
+            -74.0037413533,
+            40.6429539803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "eae7bf6b277bc37344ef27ed0703e3fa",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-23T01:11:30Z",
+        "endTime": null,
+        "from": "NY-27/Prospect Expy/Exit 24 (I-278)",
+        "to": "Hamilton Ave/Exit 26 (I-278)",
+        "length": 262.0016228601,
+        "delay": null,
+        "roadNumbers": [
+          "I-278 E"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 5000,
+              "offset": 54
+            },
+            {
+              "location": 4999,
+              "offset": 1151
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0031459029,
+            40.6790659042
+          ],
+          [
+            -74.0031767483,
+            40.6791021369
+          ],
+          [
+            -74.0032183225,
+            40.6791503835
+          ],
+          [
+            -74.0032598968,
+            40.679212106
+          ],
+          [
+            -74.0032894011,
+            40.6792536781
+          ],
+          [
+            -74.0033095176,
+            40.6792871773
+          ],
+          [
+            -74.0033323164,
+            40.6793354873
+          ],
+          [
+            -74.0033470686,
+            40.6793743896
+          ],
+          [
+            -74.0033631618,
+            40.6794186313
+          ],
+          [
+            -74.0033738907,
+            40.6794588684
+          ],
+          [
+            -74.0033832784,
+            40.6794964357
+          ],
+          [
+            -74.0033886428,
+            40.6795285999
+          ],
+          [
+            -74.0033899839,
+            40.6795460169
+          ],
+          [
+            -74.0033926661,
+            40.6795875888
+          ],
+          [
+            -74.003391325,
+            40.6796104088
+          ],
+          [
+            -74.0033899839,
+            40.6796493109
+          ],
+          [
+            -74.0033886428,
+            40.6796774704
+          ],
+          [
+            -74.0033846195,
+            40.6797082997
+          ],
+          [
+            -74.0033765729,
+            40.6797552109
+          ],
+          [
+            -74.0033685262,
+            40.679794113
+          ],
+          [
+            -74.003365844,
+            40.679799516
+          ],
+          [
+            -74.0033551152,
+            40.679838418
+          ],
+          [
+            -74.0033323164,
+            40.6799054158
+          ],
+          [
+            -74.0033054943,
+            40.6799832196
+          ],
+          [
+            -74.0032612379,
+            40.6800905176
+          ],
+          [
+            -74.0031821127,
+            40.6802635415
+          ],
+          [
+            -74.0030882354,
+            40.6804485787
+          ],
+          [
+            -74.0030278857,
+            40.6805867047
+          ],
+          [
+            -74.0028951163,
+            40.6808522771
+          ],
+          [
+            -74.0028803642,
+            40.6808831058
+          ],
+          [
+            -74.0027824636,
+            40.6810856214
+          ],
+          [
+            -74.002685904,
+            40.6812921409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "afae302f7ed58fc714ad2625ca29b8a4",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-22T01:21:00Z",
+        "endTime": null,
+        "from": "NY-495/Lincoln Tunnel Expy (W 33rd St)",
+        "to": "NY-9A/West Side Hwy/12th Ave (W 33rd St)",
+        "length": 71.5035556252,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-06-15T19:13:54Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 54420,
+              "offset": 199
+            },
+            {
+              "location": 54419,
+              "offset": 355
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0024833973,
+            40.7551159276
+          ],
+          [
+            -74.0032223458,
+            40.7554324419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "78f535ce2851768c7c8afc663d35c0c2",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-04-07T20:18:24Z",
+        "endTime": null,
+        "from": "Cardinal Hayes Pl",
+        "to": "Centre St",
+        "length": 132.8993798355,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0013675983,
+            40.7135739058
+          ],
+          [
+            -74.0013877149,
+            40.7135873113
+          ],
+          [
+            -74.0015338953,
+            40.7136690784
+          ],
+          [
+            -74.0016787346,
+            40.7137549115
+          ],
+          [
+            -74.0024833973,
+            40.71423236
+          ],
+          [
+            -74.00260812,
+            40.7143114579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "adf622d24f5d61c37857328db5855f78",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-05-07T21:05:40Z",
+        "endTime": null,
+        "from": "Centre St",
+        "to": "Cardinal Hayes Pl",
+        "length": 132.8993798355,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00260812,
+            40.7143114579
+          ],
+          [
+            -74.0024833973,
+            40.71423236
+          ],
+          [
+            -74.0016787346,
+            40.7137549115
+          ],
+          [
+            -74.0015338953,
+            40.7136690784
+          ],
+          [
+            -74.0013877149,
+            40.7135873113
+          ],
+          [
+            -74.0013675983,
+            40.7135739058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "edc56cec8a0488c5f9735c0a48359ff8",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-23T11:30:00Z",
+        "endTime": "2024-12-25T19:50:12Z",
+        "from": "Broome St",
+        "to": "Spring St",
+        "length": 163.8507184558,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0013997848,
+            40.7225404957
+          ],
+          [
+            -74.0011865492,
+            40.7228033599
+          ],
+          [
+            -74.0011087651,
+            40.7228985828
+          ],
+          [
+            -74.0003644521,
+            40.7237877256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3f921f56e5cf3ae60a1ad040bb501817",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-10-26T06:36:00Z",
+        "endTime": null,
+        "from": "W 37th St (11th Ave)",
+        "to": "W 40th St (11th Ave)",
+        "length": 44.2918043707,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 15288,
+              "offset": 191
+            },
+            {
+              "location": 30645,
+              "offset": 0
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0005776878,
+            40.7576868558
+          ],
+          [
+            -74.0003604288,
+            40.7579778346
+          ],
+          [
+            -74.0003201957,
+            40.7580341508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "683c5b6d5696f562aaa73f97cabcc009",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-10-26T03:06:30Z",
+        "endTime": null,
+        "from": "Dyer Ave",
+        "to": "Lincoln Tunl E / 11th Ave",
+        "length": 107.4274328882,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9994659121,
+            40.7572134016
+          ],
+          [
+            -73.9996764655,
+            40.7573046388
+          ],
+          [
+            -74.0005776878,
+            40.7576868558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "60d7cbfc36eff250b8aaad44e351ca06",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-01T16:18:21Z",
+        "endTime": null,
+        "from": "Toll Plaza (NJ-495)",
+        "to": "39th St/40th St (NY-495)",
+        "length": 2301.2758174258,
+        "delay": null,
+        "roadNumbers": [
+          "NY-495 E",
+          "NJ-495 E"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 5396,
+              "offset": 0
+            },
+            {
+              "location": 4768,
+              "offset": 226
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0221962924,
+            40.7664630214
+          ],
+          [
+            -74.0221346016,
+            40.7665059357
+          ],
+          [
+            -74.0220769341,
+            40.7665341219
+          ],
+          [
+            -74.0219803746,
+            40.7665823687
+          ],
+          [
+            -74.0219119783,
+            40.7666132212
+          ],
+          [
+            -74.0218476052,
+            40.7666333451
+          ],
+          [
+            -74.0217698212,
+            40.7666641976
+          ],
+          [
+            -74.0216826494,
+            40.7666963832
+          ],
+          [
+            -74.0215834077,
+            40.766731235
+          ],
+          [
+            -74.0214908714,
+            40.7667634206
+          ],
+          [
+            -74.0214036997,
+            40.7667956061
+          ],
+          [
+            -74.0213446911,
+            40.7668063347
+          ],
+          [
+            -74.0212749536,
+            40.7668210625
+          ],
+          [
+            -74.0212320383,
+            40.7668304579
+          ],
+          [
+            -74.0211864407,
+            40.7668358539
+          ],
+          [
+            -74.0211448665,
+            40.7668425196
+          ],
+          [
+            -74.0210523303,
+            40.7668559778
+          ],
+          [
+            -74.021010756,
+            40.7668586441
+          ],
+          [
+            -74.0209383364,
+            40.7668639766
+          ],
+          [
+            -74.020843118,
+            40.7668707057
+          ],
+          [
+            -74.0207586284,
+            40.7668761017
+          ],
+          [
+            -74.0207143719,
+            40.7668787679
+          ],
+          [
+            -74.0206419523,
+            40.7668761017
+          ],
+          [
+            -74.0205239351,
+            40.7668707057
+          ],
+          [
+            -74.0203992124,
+            40.7668653732
+          ],
+          [
+            -74.020278513,
+            40.7668532481
+          ],
+          [
+            -74.020163178,
+            40.7668411864
+          ],
+          [
+            -74.0200505252,
+            40.7668210625
+          ],
+          [
+            -74.0199097092,
+            40.7667916068
+          ],
+          [
+            -74.0198319252,
+            40.7667714829
+          ],
+          [
+            -74.0197259779,
+            40.7667419636
+          ],
+          [
+            -74.0196844037,
+            40.7667299019
+          ],
+          [
+            -74.0195945497,
+            40.7666977163
+          ],
+          [
+            -74.0195207889,
+            40.7666695301
+          ],
+          [
+            -74.0194403227,
+            40.7666360114
+          ],
+          [
+            -74.0194269116,
+            40.7666306789
+          ],
+          [
+            -74.0193571742,
+            40.7666011595
+          ],
+          [
+            -74.0192874367,
+            40.7665716401
+          ],
+          [
+            -74.0192364748,
+            40.766550183
+          ],
+          [
+            -74.0190192158,
+            40.7664589585
+          ],
+          [
+            -74.0189172919,
+            40.766418774
+          ],
+          [
+            -74.0186463888,
+            40.7662980298
+          ],
+          [
+            -74.0181287224,
+            40.7660700627
+          ],
+          [
+            -74.0180241163,
+            40.7660271482
+          ],
+          [
+            -74.0177853997,
+            40.7659279241
+          ],
+          [
+            -74.017584234,
+            40.7658420948
+          ],
+          [
+            -74.017391115,
+            40.7657575986
+          ],
+          [
+            -74.0172301824,
+            40.7656878304
+          ],
+          [
+            -74.0170933898,
+            40.7656275212
+          ],
+          [
+            -74.0170679088,
+            40.7656154593
+          ],
+          [
+            -74.0162686105,
+            40.7652734731
+          ],
+          [
+            -74.0153888459,
+            40.7648992986
+          ],
+          [
+            -74.0141416187,
+            40.7643641887
+          ],
+          [
+            -74.0133597548,
+            40.7640275923
+          ],
+          [
+            -74.0128112431,
+            40.7637888249
+          ],
+          [
+            -74.0120481546,
+            40.7634576218
+          ],
+          [
+            -74.0113132293,
+            40.7631424155
+          ],
+          [
+            -74.0108666415,
+            40.7629506881
+          ],
+          [
+            -74.0107070501,
+            40.7628822501
+          ],
+          [
+            -74.0102738733,
+            40.7626958548
+          ],
+          [
+            -74.0101625617,
+            40.7626475418
+          ],
+          [
+            -74.0100727077,
+            40.7626100214
+          ],
+          [
+            -74.0100096758,
+            40.7625831666
+          ],
+          [
+            -74.009884953,
+            40.7625295841
+          ],
+          [
+            -74.0098219211,
+            40.7625027294
+          ],
+          [
+            -74.0097508426,
+            40.762471875
+          ],
+          [
+            -74.0093619223,
+            40.762306937
+          ],
+          [
+            -74.0088724191,
+            40.7620990815
+          ],
+          [
+            -74.0086846645,
+            40.7620145805
+          ],
+          [
+            -74.0084151025,
+            40.7618965583
+          ],
+          [
+            -74.0082273479,
+            40.761826786
+          ],
+          [
+            -74.0075004692,
+            40.7615156987
+          ],
+          [
+            -74.0070082839,
+            40.7613051107
+          ],
+          [
+            -74.0067051942,
+            40.7611656284
+          ],
+          [
+            -74.0065067108,
+            40.76107446
+          ],
+          [
+            -74.0056054886,
+            40.7606748032
+          ],
+          [
+            -74.0047230418,
+            40.7602858735
+          ],
+          [
+            -74.0044212933,
+            40.7601598487
+          ],
+          [
+            -74.0042161043,
+            40.7600712819
+          ],
+          [
+            -74.00395593,
+            40.7599559862
+          ],
+          [
+            -74.0038540061,
+            40.7599130678
+          ],
+          [
+            -74.0035750563,
+            40.7597937085
+          ],
+          [
+            -74.0035120244,
+            40.7597668527
+          ],
+          [
+            -74.0034315581,
+            40.7597319972
+          ],
+          [
+            -74.0033631618,
+            40.7597011415
+          ],
+          [
+            -74.0032894011,
+            40.7596676192
+          ],
+          [
+            -74.0031834538,
+            40.7596153042
+          ],
+          [
+            -74.0029541249,
+            40.7595201338
+          ],
+          [
+            -74.0027891691,
+            40.7594490258
+          ],
+          [
+            -74.0024176831,
+            40.7592934767
+          ],
+          [
+            -74.0019737775,
+            40.7591057381
+          ],
+          [
+            -74.0015580351,
+            40.7589299984
+          ],
+          [
+            -74.0004703994,
+            40.7584740764
+          ],
+          [
+            -74.0001109834,
+            40.7583225249
+          ],
+          [
+            -73.9998293514,
+            40.7582004962
+          ],
+          [
+            -73.99966976,
+            40.7581307201
+          ],
+          [
+            -73.9995718594,
+            40.7580891337
+          ],
+          [
+            -73.9994779821,
+            40.7580489442
+          ],
+          [
+            -73.999195009,
+            40.7579309149
+          ],
+          [
+            -73.9986679549,
+            40.7577230457
+          ],
+          [
+            -73.9982562358,
+            40.7575433025
+          ],
+          [
+            -73.9982267315,
+            40.7575312392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1c9346ac42ae68138f7f3fcc825296dd",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T06:18:00Z",
+        "endTime": null,
+        "from": "11th Ave (W 40th St)",
+        "to": "10th Ave (W 40th St)",
+        "length": 37.0180560048,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 47,
+        "lastReportTime": "2024-12-22T05:43:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 50993,
+              "offset": 77
+            },
+            {
+              "location": 6915,
+              "offset": 154
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9975816603,
+            40.7588334938
+          ],
+          [
+            -73.9974663253,
+            40.758785178
+          ],
+          [
+            -73.9971940811,
+            40.7586765465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c6730c4a5d2d93b0974c8b648cb9d9a7",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T05:00:00Z",
+        "endTime": "2024-12-27T04:59:59Z",
+        "from": "Hicks St",
+        "to": "Brooklyn Queens Expy",
+        "length": 78.0255466626,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9967045779,
+            40.6934372112
+          ],
+          [
+            -73.9976058002,
+            40.693596791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5535380e71ab18fe8052026cb6e16b82",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:21:00Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "Hamilton Ave/Prospect Ave (3rd Ave)",
+        "to": "Union St (3rd Ave)",
+        "length": 237.3705016216,
+        "delay": 193,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 17482,
+              "offset": 1056
+            },
+            {
+              "location": 17481,
+              "offset": 210
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9935167725,
+            40.668449719
+          ],
+          [
+            -73.9932713504,
+            40.6687528496
+          ],
+          [
+            -73.9930286105,
+            40.6690532449
+          ],
+          [
+            -73.9925203319,
+            40.6696540316
+          ],
+          [
+            -73.9920174177,
+            40.6702562116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "655bfc45a03f7f4569df60bb07935d4d",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-24T06:16:00Z",
+        "endTime": null,
+        "from": "8th Ave",
+        "to": "7th Ave",
+        "length": 103.8730447055,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9925364251,
+            40.7534798076
+          ],
+          [
+            -73.9914581771,
+            40.7530265149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "0d8c2ae1fa16c6e20df545981dccf850",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-11-04T12:26:42Z",
+        "endTime": null,
+        "from": "Bond St",
+        "to": "Nevins St",
+        "length": 160.7122924777,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 5,
+        "lastReportTime": "2024-12-06T01:57:00Z",
+        "events": [
+          {
+            "code": 24,
+            "description": "Bridge closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9899628456,
+            40.678503978
+          ],
+          [
+            -73.989647686,
+            40.6783805951
+          ],
+          [
+            -73.9893244798,
+            40.6782545422
+          ],
+          [
+            -73.9889945681,
+            40.6781258193
+          ],
+          [
+            -73.9882663484,
+            40.6778454884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "aa056dd7fae9de8d119e81b76422eb90",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2023-11-06T18:44:08Z",
+        "endTime": null,
+        "from": "Manhattan Brg N / Plymouth St",
+        "to": "Pearl St",
+        "length": 136.34098534,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 17,
+        "lastReportTime": "2024-10-23T21:03:23Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9882985349,
+            40.7038146282
+          ],
+          [
+            -73.9882556195,
+            40.703752992
+          ],
+          [
+            -73.9879954453,
+            40.7032447135
+          ],
+          [
+            -73.9879257078,
+            40.7031400582
+          ],
+          [
+            -73.987748682,
+            40.7028356225
+          ],
+          [
+            -73.9877299066,
+            40.7028034696
+          ],
+          [
+            -73.9877084489,
+            40.7027793231
+          ],
+          [
+            -73.9876762624,
+            40.7027632466
+          ],
+          [
+            -73.9876226182,
+            40.702756511
+          ],
+          [
+            -73.9875877495,
+            40.7027591798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8d3a1eebf3233b49babb313b51e8db00",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2023-09-03T02:50:00Z",
+        "endTime": null,
+        "from": "Henry Hudson Parkway S",
+        "to": "Henry Hudson Parkway S",
+        "length": 193.255594215,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9847392435,
+            40.7857199112
+          ],
+          [
+            -73.9847083981,
+            40.7854302597
+          ],
+          [
+            -73.984707057,
+            40.7854088087
+          ],
+          [
+            -73.9847043748,
+            40.7853417267
+          ],
+          [
+            -73.9847030337,
+            40.7853216084
+          ],
+          [
+            -73.9847124214,
+            40.7851982331
+          ],
+          [
+            -73.9847204681,
+            40.7851579964
+          ],
+          [
+            -73.9847539957,
+            40.7850265607
+          ],
+          [
+            -73.9848130043,
+            40.7848374985
+          ],
+          [
+            -73.9848854239,
+            40.7846537668
+          ],
+          [
+            -73.9849524791,
+            40.7845062099
+          ],
+          [
+            -73.9850262399,
+            40.7843573834
+          ],
+          [
+            -73.9851321871,
+            40.7840274887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "482378daddd97e626ab873d94631a13a",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-12T00:29:00Z",
+        "endTime": null,
+        "from": "Edgewater Cmns",
+        "to": "River Rd",
+        "length": 90.7806923853,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9848492141,
+            40.8140453837
+          ],
+          [
+            -73.9846775527,
+            40.814225101
+          ],
+          [
+            -73.9845648999,
+            40.814325712
+          ],
+          [
+            -73.9844817514,
+            40.8143833761
+          ],
+          [
+            -73.9843932386,
+            40.8144343158
+          ],
+          [
+            -73.9843235011,
+            40.8144598174
+          ],
+          [
+            -73.9842537637,
+            40.8144866512
+          ],
+          [
+            -73.9841572042,
+            40.8145188136
+          ],
+          [
+            -73.9840365048,
+            40.8145469795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a1e6ecffbd5c222f0d325b3dbc1a27b6",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-06-19T16:04:32Z",
+        "endTime": null,
+        "from": "W 79th St",
+        "to": "Henry Hudson Pkwy N",
+        "length": 172.9886543864,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 3,
+        "lastReportTime": "2024-11-10T18:18:52Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9838004704,
+            40.785455709
+          ],
+          [
+            -73.9837226863,
+            40.7854034142
+          ],
+          [
+            -73.9836086924,
+            40.7853202756
+          ],
+          [
+            -73.9835215206,
+            40.785266648
+          ],
+          [
+            -73.9834906752,
+            40.7852317424
+          ],
+          [
+            -73.9834692175,
+            40.7851982331
+          ],
+          [
+            -73.9834611709,
+            40.7851714509
+          ],
+          [
+            -73.9834558065,
+            40.7851218215
+          ],
+          [
+            -73.9834611709,
+            40.7850748575
+          ],
+          [
+            -73.9834772642,
+            40.7850426808
+          ],
+          [
+            -73.983513474,
+            40.7849917185
+          ],
+          [
+            -73.9835765059,
+            40.7849286978
+          ],
+          [
+            -73.9836435611,
+            40.7848897937
+          ],
+          [
+            -73.983718663,
+            40.7848522224
+          ],
+          [
+            -73.9837615783,
+            40.7848334367
+          ],
+          [
+            -73.983796447,
+            40.7848200456
+          ],
+          [
+            -73.98387289,
+            40.7848012599
+          ],
+          [
+            -73.9839479919,
+            40.7847931999
+          ],
+          [
+            -73.9840177293,
+            40.7847985944
+          ],
+          [
+            -73.9840794201,
+            40.7848173801
+          ],
+          [
+            -73.9841317232,
+            40.7848441623
+          ],
+          [
+            -73.9841732974,
+            40.7848790681
+          ],
+          [
+            -73.9842014606,
+            40.7849179722
+          ],
+          [
+            -73.9842175539,
+            40.7849595417
+          ],
+          [
+            -73.9842175539,
+            40.7849903857
+          ],
+          [
+            -73.984206825,
+            40.7850346208
+          ],
+          [
+            -73.9841209943,
+            40.7852425314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a4e90b5f6ee3c964aaea5e760e07b4a2",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-10-11T16:02:30Z",
+        "endTime": null,
+        "from": "River Rd",
+        "to": "Edgewater Cmns",
+        "length": 151.936642946,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9833230372,
+            40.8145590325
+          ],
+          [
+            -73.9834249611,
+            40.8145804741
+          ],
+          [
+            -73.9835081096,
+            40.8145898627
+          ],
+          [
+            -73.9836060102,
+            40.8145925905
+          ],
+          [
+            -73.9837334151,
+            40.8145898627
+          ],
+          [
+            -73.9838447268,
+            40.8145858662
+          ],
+          [
+            -73.983937263,
+            40.8145764775
+          ],
+          [
+            -73.9840365048,
+            40.8145469795
+          ],
+          [
+            -73.9841572042,
+            40.8145188136
+          ],
+          [
+            -73.9842537637,
+            40.8144866512
+          ],
+          [
+            -73.9843235011,
+            40.8144598174
+          ],
+          [
+            -73.9843932386,
+            40.8144343158
+          ],
+          [
+            -73.9844817514,
+            40.8143833761
+          ],
+          [
+            -73.9845648999,
+            40.814325712
+          ],
+          [
+            -73.9846775527,
+            40.814225101
+          ],
+          [
+            -73.9848492141,
+            40.8140453837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240650ee239aca28cf0ac1a7aeb0d41b",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T03:47:00Z",
+        "endTime": "2024-12-26T04:59:00Z",
+        "from": "W 79th St (W End Ave)",
+        "to": "W 72nd St (W End Ave)",
+        "length": 80.9596875694,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 52161,
+              "offset": 176
+            },
+            {
+              "location": 52162,
+              "offset": 328
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9831460114,
+            40.7817998632
+          ],
+          [
+            -73.9836180801,
+            40.7811655611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d88df96ae13610982bc5fc8727708032",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-20T19:43:15Z",
+        "endTime": null,
+        "from": "Henry Hudson Pkwy N",
+        "to": "W 79th St",
+        "length": 176.201957708,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-03-07T16:42:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9837884004,
+            40.7857185784
+          ],
+          [
+            -73.9836086924,
+            40.7859023072
+          ],
+          [
+            -73.9835724826,
+            40.7859304852
+          ],
+          [
+            -73.9835416372,
+            40.785951936
+          ],
+          [
+            -73.9835148151,
+            40.7859639942
+          ],
+          [
+            -73.9834799464,
+            40.7859747196
+          ],
+          [
+            -73.9834423955,
+            40.7859827795
+          ],
+          [
+            -73.9834115501,
+            40.7859868412
+          ],
+          [
+            -73.9833780224,
+            40.7859868412
+          ],
+          [
+            -73.9833364482,
+            40.7859841123
+          ],
+          [
+            -73.9833002384,
+            40.7859747196
+          ],
+          [
+            -73.9832626875,
+            40.7859639942
+          ],
+          [
+            -73.9832305009,
+            40.7859492705
+          ],
+          [
+            -73.9832063611,
+            40.7859331507
+          ],
+          [
+            -73.9831755157,
+            40.7859077016
+          ],
+          [
+            -73.9831580813,
+            40.785890249
+          ],
+          [
+            -73.9831366236,
+            40.7858594054
+          ],
+          [
+            -73.9831205304,
+            40.7858339563
+          ],
+          [
+            -73.9831084604,
+            40.7858003838
+          ],
+          [
+            -73.9830977316,
+            40.7857708729
+          ],
+          [
+            -73.9830910261,
+            40.7857346983
+          ],
+          [
+            -73.9830883439,
+            40.7856984603
+          ],
+          [
+            -73.9830883439,
+            40.7856636184
+          ],
+          [
+            -73.9830937083,
+            40.785631442
+          ],
+          [
+            -73.9830990727,
+            40.7855925383
+          ],
+          [
+            -73.9831111426,
+            40.7855643601
+          ],
+          [
+            -73.9831245537,
+            40.7855335164
+          ],
+          [
+            -73.9831460114,
+            40.7855026727
+          ],
+          [
+            -73.9831594224,
+            40.7854838872
+          ],
+          [
+            -73.9831983144,
+            40.7854477125
+          ],
+          [
+            -73.9832452531,
+            40.7854195342
+          ],
+          [
+            -73.9832975562,
+            40.785399416
+          ],
+          [
+            -73.9833605881,
+            40.785386025
+          ],
+          [
+            -73.9834061856,
+            40.7853846287
+          ],
+          [
+            -73.9834584887,
+            40.7853900232
+          ],
+          [
+            -73.9835094507,
+            40.7853967505
+          ],
+          [
+            -73.983552366,
+            40.7854034142
+          ],
+          [
+            -73.9835966225,
+            40.7854101415
+          ],
+          [
+            -73.9836435611,
+            40.7854195342
+          ],
+          [
+            -73.9838004704,
+            40.785455709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "07d3c9dff252f5043e34a251266884df",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T05:13:47Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "W 72nd St (W End Ave)",
+        "to": "W 79th St (W End Ave)",
+        "length": 80.861873265,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 52162,
+              "offset": 328
+            },
+            {
+              "location": 52161,
+              "offset": 166
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9835188384,
+            40.781125322
+          ],
+          [
+            -73.9830588396,
+            40.7817636864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dbb6b7159a55217e32932f87c643637c",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T01:00:00Z",
+        "endTime": "2024-12-25T11:38:28Z",
+        "from": "Water St",
+        "to": "Front St",
+        "length": 74.0066032888,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9827396567,
+            40.7029603581
+          ],
+          [
+            -73.9828026886,
+            40.7022965183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e660dd2d5c115da4e0643b45c6c96cfb",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T01:00:00Z",
+        "endTime": "2024-12-25T11:38:28Z",
+        "from": "Front St",
+        "to": "Water St",
+        "length": 74.0066032888,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9828026886,
+            40.7022965183
+          ],
+          [
+            -73.9827396567,
+            40.7029603581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d047ce7f0d00090ad66d41f9867f3b83",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2022-10-19T19:20:21Z",
+        "endTime": null,
+        "from": "Broadway (W 79th St)",
+        "to": "NY-9A/Henry Hudson Pkwy (W 79th St)",
+        "length": 196.6440873978,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 2,
+        "lastReportTime": "2024-12-17T08:13:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 15409,
+              "offset": 23
+            },
+            {
+              "location": 15408,
+              "offset": 254
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9827222223,
+            40.7850024441
+          ],
+          [
+            -73.982923388,
+            40.7850842503
+          ],
+          [
+            -73.9829797144,
+            40.7851070342
+          ],
+          [
+            -73.9830454285,
+            40.7851365453
+          ],
+          [
+            -73.9838004704,
+            40.785455709
+          ],
+          [
+            -73.9839318986,
+            40.7855107327
+          ],
+          [
+            -73.9840619857,
+            40.7855656929
+          ],
+          [
+            -73.9841196532,
+            40.7855884766
+          ],
+          [
+            -73.9841773207,
+            40.7856139893
+          ],
+          [
+            -73.9842309649,
+            40.7856354402
+          ],
+          [
+            -73.9842148717,
+            40.7856636184
+          ],
+          [
+            -73.9842001195,
+            40.7857199112
+          ],
+          [
+            -73.984206825,
+            40.7857749346
+          ],
+          [
+            -73.9842256005,
+            40.7858258964
+          ],
+          [
+            -73.9842618103,
+            40.7858714636
+          ],
+          [
+            -73.9843047257,
+            40.7859050361
+          ],
+          [
+            -73.98432216,
+            40.7859143653
+          ],
+          [
+            -73.9843556876,
+            40.7859304852
+          ],
+          [
+            -73.9844133551,
+            40.7859492705
+          ],
+          [
+            -73.9844442005,
+            40.7859532688
+          ],
+          [
+            -73.9844696815,
+            40.7859532688
+          ],
+          [
+            -73.9845085735,
+            40.7859532688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7beff49eb40c66f14a65b10ae381d2d5",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T05:37:42Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "Church Ave",
+        "to": "E 3rd St",
+        "length": 66.3327081782,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9789684708,
+            40.6429995818
+          ],
+          [
+            -73.978932261,
+            40.6429727424
+          ],
+          [
+            -73.9788799579,
+            40.6429459666
+          ],
+          [
+            -73.9788383837,
+            40.6429285401
+          ],
+          [
+            -73.9787887628,
+            40.6429083787
+          ],
+          [
+            -73.9787150021,
+            40.6428842741
+          ],
+          [
+            -73.9786412413,
+            40.6428614415
+          ],
+          [
+            -73.9786050315,
+            40.6428534279
+          ],
+          [
+            -73.9785661395,
+            40.6428453506
+          ],
+          [
+            -73.9785017664,
+            40.6428400081
+          ],
+          [
+            -73.9784414167,
+            40.6428426794
+          ],
+          [
+            -73.9782362278,
+            40.6428507566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "320f10324c2bafec4427215418e2174a",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T05:37:42Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "E 2nd St",
+        "to": "Church Ave",
+        "length": 66.3327081782,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-12-23T00:13:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9782362278,
+            40.6428507566
+          ],
+          [
+            -73.9784414167,
+            40.6428426794
+          ],
+          [
+            -73.9785017664,
+            40.6428400081
+          ],
+          [
+            -73.9785661395,
+            40.6428453506
+          ],
+          [
+            -73.9786050315,
+            40.6428534279
+          ],
+          [
+            -73.9786412413,
+            40.6428614415
+          ],
+          [
+            -73.9787150021,
+            40.6428842741
+          ],
+          [
+            -73.9787887628,
+            40.6429083787
+          ],
+          [
+            -73.9788383837,
+            40.6429285401
+          ],
+          [
+            -73.9788799579,
+            40.6429459666
+          ],
+          [
+            -73.978932261,
+            40.6429727424
+          ],
+          [
+            -73.9789684708,
+            40.6429995818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c7896ee51dd16881a81e7287ebe5a8c5",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-23T19:40:57Z",
+        "endTime": "2024-12-27T04:59:59Z",
+        "from": "Broadway",
+        "to": "Central Park W",
+        "length": 406.4504882636,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-12-23T19:55:08Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9820530112,
+            40.7754349885
+          ],
+          [
+            -73.9806502159,
+            40.774843598
+          ],
+          [
+            -73.9792796071,
+            40.7742669284
+          ],
+          [
+            -73.9778338964,
+            40.7736594047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "d6b23a25e93f8b0df4f59df4293bd8ef",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:02:30Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "Albemarle Rd",
+        "to": "Caton Ave",
+        "length": 244.4915699478,
+        "delay": 188,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9777681823,
+            40.6453491948
+          ],
+          [
+            -73.9781906302,
+            40.6475244719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "46e07fa1b29661e16273ce0995a71f2f",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2023-08-15T15:41:02Z",
+        "endTime": null,
+        "from": "Prospect Expy W",
+        "to": "Prospect Park SW",
+        "length": 383.0115962701,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-09-14T17:55:42Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9775911565,
+            40.6540784297
+          ],
+          [
+            -73.9772330816,
+            40.6542152749
+          ],
+          [
+            -73.9770426447,
+            40.6542917098
+          ],
+          [
+            -73.9765759404,
+            40.6544794262
+          ],
+          [
+            -73.9764324422,
+            40.6545357665
+          ],
+          [
+            -73.9762795563,
+            40.6545894359
+          ],
+          [
+            -73.9762192066,
+            40.6546135363
+          ],
+          [
+            -73.975261658,
+            40.6549876951
+          ],
+          [
+            -73.9744999106,
+            40.6552975
+          ],
+          [
+            -73.9743027682,
+            40.6553739336
+          ],
+          [
+            -73.9735517497,
+            40.6556502256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bdcd3279aca92b80c0067581ca29dcfc",
+        "iconCategory": 0,
+        "magnitudeOfDelay": 0,
+        "startTime": "2022-08-01T13:36:11Z",
+        "endTime": null,
+        "from": "Washington Park",
+        "to": "Washington Ave",
+        "length": 589.7104053217,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 493,
+            "description": "Restrictions",
+            "iconCategory": 0
+          },
+          {
+            "code": 1854,
+            "description": "Traffic regulations have been changed",
+            "iconCategory": 3
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9735396798,
+            40.6917071668
+          ],
+          [
+            -73.9725526269,
+            40.6916790124
+          ],
+          [
+            -73.9715628917,
+            40.6916495233
+          ],
+          [
+            -73.97055304,
+            40.6916065608
+          ],
+          [
+            -73.9695190485,
+            40.6915609925
+          ],
+          [
+            -73.9686714704,
+            40.6915341726
+          ],
+          [
+            -73.9684944446,
+            40.6915515864
+          ],
+          [
+            -73.9679553206,
+            40.6915864777
+          ],
+          [
+            -73.9675261672,
+            40.691637448
+          ],
+          [
+            -73.9665726419,
+            40.6917581371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "56e957aaf21d94845fe67d135a93c8e3",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-23T22:52:45Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "E 59th St",
+        "to": "Ed Koch Queensboro Brg",
+        "length": 39.6747487661,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 4,
+        "lastReportTime": "2024-12-24T04:25:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9629677529,
+            40.7600310935
+          ],
+          [
+            -73.9630656536,
+            40.7601021374
+          ],
+          [
+            -73.9631152744,
+            40.7601517856
+          ],
+          [
+            -73.9631407554,
+            40.7602013702
+          ],
+          [
+            -73.9631474609,
+            40.760241622
+          ],
+          [
+            -73.963135391,
+            40.7602711442
+          ],
+          [
+            -73.9631032045,
+            40.7603073326
+          ],
+          [
+            -73.9630790646,
+            40.7603221255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a2e9cf742148613fe4c88e9b03bc33ff",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T06:40:00Z",
+        "endTime": "2024-12-27T04:55:00Z",
+        "from": "Grand St",
+        "to": "Metropolitan Ave",
+        "length": 66.919868367,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 9,
+        "lastReportTime": "2024-12-22T21:37:22Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9627853627,
+            40.7151094205
+          ],
+          [
+            -73.9623065884,
+            40.7155895276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8200cd761ae4c6c59f3f4edd41b72197",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-23T22:06:48Z",
+        "endTime": null,
+        "from": "Long Island Expy W",
+        "to": "Queens Midtown Tunl W / Long Island Expy W",
+        "length": 60.0460197619,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 2,
+        "lastReportTime": "2024-09-04T17:29:02Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9508790369,
+            40.7416445488
+          ],
+          [
+            -73.9510118062,
+            40.7416592822
+          ],
+          [
+            -73.9510708148,
+            40.7416539477
+          ],
+          [
+            -73.9511553044,
+            40.7416458824
+          ],
+          [
+            -73.9512733216,
+            40.7416351498
+          ],
+          [
+            -73.9515871401,
+            40.7416136847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e97f77fe42355fb9536da187273bc23c",
+        "iconCategory": 0,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-09-25T06:42:30Z",
+        "endTime": null,
+        "from": "Lenox Ave",
+        "to": "Mount Morris Park W",
+        "length": 171.1744990281,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 493,
+            "description": "Restrictions",
+            "iconCategory": 0
+          },
+          {
+            "code": 1854,
+            "description": "Traffic regulations have been changed",
+            "iconCategory": 3
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9477328057,
+            40.8045517135
+          ],
+          [
+            -73.9472781713,
+            40.8043585829
+          ],
+          [
+            -73.9459585245,
+            40.8037993637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ad9b73c45cd7dfaee61bafbb738fd899",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:22:30Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "Lenox Ave",
+        "to": "Adam Clayton Powell Jr Blvd",
+        "length": 172.7468433155,
+        "delay": 146,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9399906094,
+            40.8170682226
+          ],
+          [
+            -73.941319644,
+            40.8176301845
+          ],
+          [
+            -73.9417836661,
+            40.8178246086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e4b0caf8500b251cc8dd86227be2d573",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:10:00Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "41st Ave (23rd St)",
+        "to": "36th Ave (23rd St)",
+        "length": 334.2506774469,
+        "delay": 320,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 17218,
+              "offset": 0
+            },
+            {
+              "location": 15301,
+              "offset": 483
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937328517,
+            40.7566072457
+          ],
+          [
+            -73.9362221057,
+            40.7578061554
+          ],
+          [
+            -73.9350674148,
+            40.7590775486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cbb7610cbe29914d6df10173f9c4a5e0",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-06-04T14:33:00Z",
+        "endTime": null,
+        "from": "48th Ave",
+        "to": "47th Ave",
+        "length": 207.6839547901,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 6,
+        "lastReportTime": "2024-11-22T15:59:16Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9352256651,
+            40.7411268431
+          ],
+          [
+            -73.9350432749,
+            40.7420683252
+          ],
+          [
+            -73.9348689313,
+            40.7429749298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "947d3641fdf4fe991f8591fe390635ca",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-17T05:41:00Z",
+        "endTime": null,
+        "from": "E 149th St (Grand Concourse)",
+        "to": "E 161st St (Grand Concourse)",
+        "length": 51.8414722155,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          },
+          {
+            "code": 810,
+            "description": "New roadworks layout",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 16301,
+              "offset": 792
+            },
+            {
+              "location": 19471,
+              "offset": 169
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9265741999,
+            40.8200387832
+          ],
+          [
+            -73.9264669115,
+            40.8202292041
+          ],
+          [
+            -73.9263421888,
+            40.820470623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fadb1410ce2ed0f18d6cfded01409977",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:22:00Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "Willis Ave",
+        "to": "3rd Ave / Alexander Ave",
+        "length": 177.5348168017,
+        "delay": 171,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9211427267,
+            40.8124669214
+          ],
+          [
+            -73.9218280311,
+            40.8127512529
+          ],
+          [
+            -73.9222813244,
+            40.8129389669
+          ],
+          [
+            -73.9225347931,
+            40.8130449087
+          ],
+          [
+            -73.9226313527,
+            40.8130905207
+          ],
+          [
+            -73.9226970668,
+            40.8131294082
+          ],
+          [
+            -73.9227346177,
+            40.8131603025
+          ],
+          [
+            -73.9228995736,
+            40.8133211811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "060b1eb93d0ad6c632a082348efe03ea",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-03-08T01:01:00Z",
+        "endTime": null,
+        "from": "Brooklyn Queens Expy / Laurel Hill Blvd",
+        "to": "48th St / 48th Ave",
+        "length": 225.7363766543,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9170832033,
+            40.7371424319
+          ],
+          [
+            -73.9167237873,
+            40.7381657074
+          ],
+          [
+            -73.9165695603,
+            40.7386485061
+          ],
+          [
+            -73.9164823885,
+            40.7389087028
+          ],
+          [
+            -73.9164864118,
+            40.7389408383
+          ],
+          [
+            -73.9167090351,
+            40.7389824367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "35eeddbf0ba1da2d3215bc48d1ad08c6",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2023-10-31T17:15:05Z",
+        "endTime": null,
+        "from": "48th St / 48th Ave",
+        "to": "50th Ave",
+        "length": 225.7363766543,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9167090351,
+            40.7389824367
+          ],
+          [
+            -73.9164864118,
+            40.7389408383
+          ],
+          [
+            -73.9164823885,
+            40.7389087028
+          ],
+          [
+            -73.9165695603,
+            40.7386485061
+          ],
+          [
+            -73.9167237873,
+            40.7381657074
+          ],
+          [
+            -73.9170832033,
+            40.7371424319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "948638adb35e66a9ba8650efee29f1c6",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-23T05:00:00Z",
+        "endTime": "2024-12-27T04:59:59Z",
+        "from": "Van Sinderen Ave (Broadway)",
+        "to": "Eastern Pkwy (Broadway)",
+        "length": 60.554001103,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 2,
+        "lastReportTime": "2024-12-22T05:31:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 19447,
+              "offset": 158
+            },
+            {
+              "location": 30714,
+              "offset": 0
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9034669692,
+            40.6788969455
+          ],
+          [
+            -73.9040396209,
+            40.6792255184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "eff4c4893be64094b275cb3c08e0eaa9",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T05:43:29Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "Brooklyn Queens Expy",
+        "to": "70th St",
+        "length": 20.3890628535,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8971208627,
+            40.7524712447
+          ],
+          [
+            -73.8968794639,
+            40.7524847059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "18bc084318774a4a099f1d185aeb3b37",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2023-10-11T17:09:05Z",
+        "endTime": null,
+        "from": "78th Ave",
+        "to": "Cooper Ave",
+        "length": 45.3927911885,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 2,
+        "lastReportTime": "2024-09-19T14:13:19Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8945660586,
+            40.6965526015
+          ],
+          [
+            -73.8944024439,
+            40.6961636782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "090d3d5dc6ea4d1e721a3d91fc6604a5",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:23:00Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "Calamus Ave",
+        "to": "51st Ave",
+        "length": 77.7157388074,
+        "delay": 206,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.894198596,
+            40.7348558825
+          ],
+          [
+            -73.8942213948,
+            40.7355545834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5fe1e2735a0047e6c30398c24ec1a6c1",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-12T06:49:00Z",
+        "endTime": null,
+        "from": "Bronx River Ave (Bronx) (South) (I-278)",
+        "to": "I-895 (I-278)",
+        "length": 198.0996154211,
+        "delay": null,
+        "roadNumbers": [
+          "I-278 W"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          },
+          {
+            "code": 810,
+            "description": "New roadworks layout",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 5027,
+              "offset": 430
+            },
+            {
+              "location": 5028,
+              "offset": 619
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8906433279,
+            40.8201648848
+          ],
+          [
+            -73.890695631,
+            40.8201165501
+          ],
+          [
+            -73.8907264764,
+            40.8200870545
+          ],
+          [
+            -73.8909678752,
+            40.8198564176
+          ],
+          [
+            -73.8911274667,
+            40.8197035472
+          ],
+          [
+            -73.8915284569,
+            40.8193173101
+          ],
+          [
+            -73.8918516631,
+            40.818990063
+          ],
+          [
+            -73.892055511,
+            40.8187660827
+          ],
+          [
+            -73.8920702631,
+            40.8187486387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214de319a6805314c8f64905b8707e62",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-11-25T00:07:00Z",
+        "endTime": null,
+        "from": "Juniper Blvd S / 69th Pl",
+        "to": "71st St",
+        "length": 189.5006721951,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 2,
+        "lastReportTime": "2024-12-05T04:40:30Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8863571579,
+            40.7160294162
+          ],
+          [
+            -73.8859709198,
+            40.7160683606
+          ],
+          [
+            -73.8854760523,
+            40.7161246488
+          ],
+          [
+            -73.88526684,
+            40.7161487905
+          ],
+          [
+            -73.8851354117,
+            40.7161608613
+          ],
+          [
+            -73.8850428755,
+            40.7161689297
+          ],
+          [
+            -73.8848806019,
+            40.7161836688
+          ],
+          [
+            -73.8847223515,
+            40.7161796664
+          ],
+          [
+            -73.8841228778,
+            40.7161782687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "40aafb9d7020b5bfc78b11cd3f869153",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-10-16T13:58:22Z",
+        "endTime": null,
+        "from": "Barbey St",
+        "to": "New Lots Ave / Warwick St",
+        "length": 76.2372555657,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-09-27T23:43:18Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8849034006,
+            40.6661323272
+          ],
+          [
+            -73.8840155895,
+            40.6662610733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c534c072a4c19d63a922b82eae2a0d22",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-11-03T06:09:00Z",
+        "endTime": null,
+        "from": "Warwick St",
+        "to": "Barbey St",
+        "length": 76.2372555657,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8840155895,
+            40.6662610733
+          ],
+          [
+            -73.8849034006,
+            40.6661323272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "30daff68a5fc8a31ddb49ce30ed3e187",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T04:50:44Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "Berriman St",
+        "to": "Atkins Ave",
+        "length": 78.5958244524,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8788670893,
+            40.6701931457
+          ],
+          [
+            -73.877952456,
+            40.6703286228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "115471b04829874f816f083adecf6d86",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T05:00:00Z",
+        "endTime": "2024-12-27T04:59:59Z",
+        "from": "90th St",
+        "to": "89th St",
+        "length": 80.4137943602,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 3,
+        "lastReportTime": "2024-12-23T07:31:00Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8776010866,
+            40.7545513412
+          ],
+          [
+            -73.8785479064,
+            40.7544587669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "da1c99b2c98c036e2a26040668b19836",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-24T01:15:30Z",
+        "endTime": null,
+        "from": "Queens Blvd",
+        "to": "Queens Blvd",
+        "length": 136.1429252005,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8732237215,
+            40.7342335809
+          ],
+          [
+            -73.8729327018,
+            40.7341155729
+          ],
+          [
+            -73.8719684477,
+            40.7337736152
+          ],
+          [
+            -73.8717726464,
+            40.7336958107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bc4476b590318a9d1da643e93d57eea3",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T07:12:22Z",
+        "endTime": "2024-12-27T04:59:00Z",
+        "from": "Woodhaven Blvd / 61st Rd",
+        "to": "Woodhaven Blvd",
+        "length": 43.3858003944,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8700761492,
+            40.7272356858
+          ],
+          [
+            -73.8701056535,
+            40.7271994793
+          ],
+          [
+            -73.8701364989,
+            40.7271860766
+          ],
+          [
+            -73.8701981897,
+            40.7271713399
+          ],
+          [
+            -73.8703738744,
+            40.7271391352
+          ],
+          [
+            -73.8705455358,
+            40.7271042626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b5411a6106ef03a1b536bae20556d22",
+        "iconCategory": 9,
+        "magnitudeOfDelay": 0,
+        "startTime": "2024-12-15T17:09:13Z",
+        "endTime": null,
+        "from": "Grand Central Pkwy/Exit 22 (I-495)",
+        "to": "Junction Blvd/Exit 19 (I-495)",
+        "length": 368.6706625437,
+        "delay": null,
+        "roadNumbers": [
+          "I-495 W"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "probable",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 4948,
+              "offset": 746
+            },
+            {
+              "location": 4946,
+              "offset": 206
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8521375353,
+            40.7373664335
+          ],
+          [
+            -73.8524124617,
+            40.737296699
+          ],
+          [
+            -73.8527611489,
+            40.7372162312
+          ],
+          [
+            -73.8530414397,
+            40.7371571663
+          ],
+          [
+            -73.8532305355,
+            40.7371236962
+          ],
+          [
+            -73.8535738582,
+            40.7370566289
+          ],
+          [
+            -73.853878289,
+            40.7370042961
+          ],
+          [
+            -73.8542430694,
+            40.7369520267
+          ],
+          [
+            -73.8545823688,
+            40.73689836
+          ],
+          [
+            -73.8548975284,
+            40.7368380247
+          ],
+          [
+            -73.8550919885,
+            40.7367990924
+          ],
+          [
+            -73.8552716965,
+            40.7367602237
+          ],
+          [
+            -73.8554420168,
+            40.736721355
+          ],
+          [
+            -73.8556686635,
+            40.7366703556
+          ],
+          [
+            -73.8558564181,
+            40.7366247546
+          ],
+          [
+            -73.8560334439,
+            40.7365805508
+          ],
+          [
+            -73.856355309,
+            40.7364960174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "def43327320104601aba33d3b2a84c92",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-10-19T20:27:46Z",
+        "endTime": null,
+        "from": "Horace Harding Expy / Saultell Ave",
+        "to": "108th St",
+        "length": 82.1194333445,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-07-19T12:35:37Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8514549131,
+            40.7380852406
+          ],
+          [
+            -73.8519162531,
+            40.738235441
+          ],
+          [
+            -73.8522676224,
+            40.7383494406
+          ],
+          [
+            -73.8522863979,
+            40.738352108
+          ],
+          [
+            -73.8523065145,
+            40.7383494406
+          ],
+          [
+            -73.8523534531,
+            40.7383347064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9e574726e4d6ac413e7ade8b5a401405",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-12-24T04:27:03Z",
+        "endTime": "2024-12-26T04:59:00Z",
+        "from": "108th St",
+        "to": "110th St",
+        "length": 150.2091867168,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.84960553,
+            40.7329474853
+          ],
+          [
+            -73.8479385371,
+            40.733426257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cb000908389268c2b08c16186b191559",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-09-10T22:39:43Z",
+        "endTime": null,
+        "from": "Union Tpke",
+        "to": "Metropolitan Ave",
+        "length": 145.3613862731,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-10-27T20:46:28Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8466524179,
+            40.7084481729
+          ],
+          [
+            -73.8463158006,
+            40.7097302943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5bb07806911a06bf870e30d2d5443ae4",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-11-04T15:44:42Z",
+        "endTime": null,
+        "from": "Roosevelt Ave/Willets Point Blvd (126th St)",
+        "to": "NY-25A/Northern Blvd (Shea Rd/126th St)",
+        "length": 440.379222606,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-12-15T23:06:45Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "positive",
+          "points": [
+            {
+              "location": 51173,
+              "offset": 79
+            },
+            {
+              "location": 51172,
+              "offset": 0
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8432299192,
+            40.7553801235
+          ],
+          [
+            -73.8433492775,
+            40.7556054606
+          ],
+          [
+            -73.8436376149,
+            40.7561633078
+          ],
+          [
+            -73.8437247867,
+            40.7563282611
+          ],
+          [
+            -73.8440520162,
+            40.7569559432
+          ],
+          [
+            -73.8444489832,
+            40.7577445057
+          ],
+          [
+            -73.8447909648,
+            40.7584056338
+          ],
+          [
+            -73.8449237342,
+            40.7586631501
+          ],
+          [
+            -73.845139652,
+            40.7590668189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "e2ced9cd15379656f66dcb37d9befc18",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-11-04T15:04:30Z",
+        "endTime": "2024-12-25T04:59:00Z",
+        "from": "NY-25A/Northern Blvd (Shea Rd/126th St)",
+        "to": "Roosevelt Ave/Willets Point Blvd (126th St)",
+        "length": 444.7458252674,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": 1,
+        "lastReportTime": "2024-12-15T23:06:45Z",
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          },
+          {
+            "code": 701,
+            "description": "Roadworks",
+            "iconCategory": 9
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 51172,
+              "offset": null
+            },
+            {
+              "location": 51173,
+              "offset": null
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.845139652,
+            40.7590668189
+          ],
+          [
+            -73.8449237342,
+            40.7586631501
+          ],
+          [
+            -73.8447909648,
+            40.7584056338
+          ],
+          [
+            -73.8444489832,
+            40.7577445057
+          ],
+          [
+            -73.8440520162,
+            40.7569559432
+          ],
+          [
+            -73.8437247867,
+            40.7563282611
+          ],
+          [
+            -73.8436376149,
+            40.7561633078
+          ],
+          [
+            -73.8433492775,
+            40.7556054606
+          ],
+          [
+            -73.8432285781,
+            40.7553774568
+          ],
+          [
+            -73.8432098026,
+            40.7553439323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "a00843162cd6968dd559559830862de1",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-05-05T16:49:26Z",
+        "endTime": null,
+        "from": "Tahoe St",
+        "to": "150th Rd",
+        "length": 78.0457758547,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8392696376,
+            40.6682109901
+          ],
+          [
+            -73.8390081222,
+            40.6688842608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "c3146492648c35b80ebcf99afaff47b4",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2022-03-22T17:04:01Z",
+        "endTime": null,
+        "from": "Metropolitan Ave",
+        "to": "Woodhaven Blvd",
+        "length": 2222.3523492741,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8390161688,
+            40.7084937931
+          ],
+          [
+            -73.8390510375,
+            40.7081651739
+          ],
+          [
+            -73.8390376265,
+            40.7080177013
+          ],
+          [
+            -73.8390134866,
+            40.7078486889
+          ],
+          [
+            -73.8389504547,
+            40.7075536785
+          ],
+          [
+            -73.8389222915,
+            40.7073833306
+          ],
+          [
+            -73.8389115627,
+            40.707222386
+          ],
+          [
+            -73.8389249737,
+            40.7070185519
+          ],
+          [
+            -73.8389437492,
+            40.706751686
+          ],
+          [
+            -73.8389504547,
+            40.7065692634
+          ],
+          [
+            -73.8389370436,
+            40.7064365286
+          ],
+          [
+            -73.838903516,
+            40.7063184712
+          ],
+          [
+            -73.8387989099,
+            40.7061280414
+          ],
+          [
+            -73.8385816509,
+            40.7058490992
+          ],
+          [
+            -73.8383362288,
+            40.7055366062
+          ],
+          [
+            -73.8381659085,
+            40.7053234265
+          ],
+          [
+            -73.8379365797,
+            40.7050256727
+          ],
+          [
+            -73.837850749,
+            40.7048057559
+          ],
+          [
+            -73.837850749,
+            40.7045764342
+          ],
+          [
+            -73.83787623,
+            40.7044717809
+          ],
+          [
+            -73.8379392619,
+            40.7044047443
+          ],
+          [
+            -73.8379996116,
+            40.7043430451
+          ],
+          [
+            -73.8381189699,
+            40.7042639353
+          ],
+          [
+            -73.8382503981,
+            40.704202236
+          ],
+          [
+            -73.838364392,
+            40.704166017
+          ],
+          [
+            -73.8388632829,
+            40.7040895758
+          ],
+          [
+            -73.8390336032,
+            40.7040694965
+          ],
+          [
+            -73.8393407161,
+            40.7040023959
+          ],
+          [
+            -73.83944264,
+            40.7039555016
+          ],
+          [
+            -73.8394748265,
+            40.7039246201
+          ],
+          [
+            -73.839493602,
+            40.7039098783
+          ],
+          [
+            -73.839505672,
+            40.703900474
+          ],
+          [
+            -73.8395982082,
+            40.7037784725
+          ],
+          [
+            -73.839724272,
+            40.7036027773
+          ],
+          [
+            -73.839929461,
+            40.7032755319
+          ],
+          [
+            -73.8399844463,
+            40.7031843477
+          ],
+          [
+            -73.8401185567,
+            40.7030274597
+          ],
+          [
+            -73.8401976819,
+            40.7029496192
+          ],
+          [
+            -73.8403076524,
+            40.7028906511
+          ],
+          [
+            -73.840417623,
+            40.7028665046
+          ],
+          [
+            -73.8405597801,
+            40.7028370205
+          ],
+          [
+            -73.8407099838,
+            40.7028316193
+          ],
+          [
+            -73.8411686415,
+            40.7028316193
+          ],
+          [
+            -73.8413751716,
+            40.702804804
+          ],
+          [
+            -73.8414288158,
+            40.7027953995
+          ],
+          [
+            -73.8417359287,
+            40.7027404345
+          ],
+          [
+            -73.8422804172,
+            40.7026385107
+          ],
+          [
+            -73.8426666553,
+            40.7026090264
+          ],
+          [
+            -73.8429751093,
+            40.7026090264
+          ],
+          [
+            -73.8433546419,
+            40.7026505839
+          ],
+          [
+            -73.8437167401,
+            40.7026814026
+          ],
+          [
+            -73.8441914911,
+            40.7026693293
+          ],
+          [
+            -73.8446716065,
+            40.7026090264
+          ],
+          [
+            -73.8451825673,
+            40.7025325834
+          ],
+          [
+            -73.8454776103,
+            40.7025124401
+          ],
+          [
+            -73.8456720705,
+            40.7025526632
+          ],
+          [
+            -73.8457967932,
+            40.7025902175
+          ],
+          [
+            -73.8459054227,
+            40.7026425139
+          ],
+          [
+            -73.8465679283,
+            40.7030864278
+          ],
+          [
+            -73.846884429,
+            40.7032540544
+          ],
+          [
+            -73.8471606965,
+            40.7033613784
+          ],
+          [
+            -73.8474034364,
+            40.7034565655
+          ],
+          [
+            -73.8476689751,
+            40.7035276699
+          ],
+          [
+            -73.847911715,
+            40.7035746279
+          ],
+          [
+            -73.8481048341,
+            40.7035987106
+          ],
+          [
+            -73.8482939298,
+            40.7036255891
+          ],
+          [
+            -73.8483663494,
+            40.7036255891
+          ],
+          [
+            -73.8487016256,
+            40.7036241912
+          ],
+          [
+            -73.8489094968,
+            40.703593373
+          ],
+          [
+            -73.8489966686,
+            40.7035705612
+          ],
+          [
+            -73.8491723532,
+            40.7035209344
+          ],
+          [
+            -73.8493842478,
+            40.7034592343
+          ],
+          [
+            -73.849592119,
+            40.7033613784
+          ],
+          [
+            -73.849771827,
+            40.7032647931
+          ],
+          [
+            -73.8501111264,
+            40.7030422017
+          ],
+          [
+            -73.8502050037,
+            40.7029684281
+          ],
+          [
+            -73.8502291436,
+            40.702945616
+          ],
+          [
+            -73.8502331669,
+            40.7029416128
+          ],
+          [
+            -73.8503766651,
+            40.7028530969
+          ],
+          [
+            -73.8504960234,
+            40.7027136191
+          ],
+          [
+            -73.850568443,
+            40.7026345074
+          ],
+          [
+            -73.8505992884,
+            40.7025781442
+          ],
+          [
+            -73.8506945069,
+            40.7024091815
+          ],
+          [
+            -73.8507199878,
+            40.7023219994
+          ],
+          [
+            -73.8507387633,
+            40.7022348171
+          ],
+          [
+            -73.8507454688,
+            40.7021798516
+          ],
+          [
+            -73.8507387633,
+            40.7020940036
+          ],
+          [
+            -73.8507387633,
+            40.7019719988
+          ],
+          [
+            -73.8507307167,
+            40.7018700739
+          ],
+          [
+            -73.8506904835,
+            40.7017345973
+          ],
+          [
+            -73.8506422038,
+            40.7015428199
+          ],
+          [
+            -73.8505429621,
+            40.7012128954
+          ],
+          [
+            -73.8505107755,
+            40.7011083004
+          ],
+          [
+            -73.8505322332,
+            40.7009943005
+          ],
+          [
+            -73.8505751486,
+            40.7009420029
+          ],
+          [
+            -73.8505979473,
+            40.7009165212
+          ],
+          [
+            -73.8507414455,
+            40.700833404
+          ],
+          [
+            -73.8510029609,
+            40.7007153368
+          ],
+          [
+            -73.8510954971,
+            40.7006791794
+          ],
+          [
+            -73.8513610358,
+            40.7005839248
+          ],
+          [
+            -73.8515997524,
+            40.7004860646
+          ],
+          [
+            -73.8516601021,
+            40.7004726564
+          ],
+          [
+            -73.851748615,
+            40.7004525125
+          ],
+          [
+            -73.8519873316,
+            40.7004323685
+          ],
+          [
+            -73.8526136274,
+            40.7004726564
+          ],
+          [
+            -73.8527933354,
+            40.7004900679
+          ],
+          [
+            -73.8529985244,
+            40.7005276234
+          ],
+          [
+            -73.8534236545,
+            40.7006375572
+          ],
+          [
+            -73.8537736828,
+            40.7007381496
+          ],
+          [
+            -73.8538380558,
+            40.7007475543
+          ],
+          [
+            -73.8539507086,
+            40.7007663002
+          ],
+          [
+            -73.8540445859,
+            40.7007717015
+          ],
+          [
+            -73.8541451688,
+            40.7007676982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5451200fb4cbd7fd4da02e44c500f625",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-04-26T18:09:24Z",
+        "endTime": null,
+        "from": "Aqueduct Racetrack Interior Rd",
+        "to": "Centreville St",
+        "length": 12.8047042105,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8360147769,
+            40.6732374688
+          ],
+          [
+            -73.8361462052,
+            40.6731798094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "b0c4760520966e0a8d52872a81042e6b",
+        "iconCategory": 8,
+        "magnitudeOfDelay": 4,
+        "startTime": "2024-04-26T18:09:24Z",
+        "endTime": null,
+        "from": "Centreville St",
+        "to": "Aqueduct Racetrack Interior Rd",
+        "length": 12.8047042105,
+        "delay": null,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 401,
+            "description": "Closed",
+            "iconCategory": 8
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8361462052,
+            40.6731798094
+          ],
+          [
+            -73.8360147769,
+            40.6732374688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "16e7d708bcecbeea150e97e5e1306617",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-24T09:21:00Z",
+        "endTime": "2024-12-24T09:43:30Z",
+        "from": "Queens",
+        "to": "Van Wyck Expy",
+        "length": 154.2715037638,
+        "delay": 100,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          }
+        ],
+        "tmc": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8183470661,
+            40.7059148
+          ],
+          [
+            -73.8183189029,
+            40.7058424274
+          ],
+          [
+            -73.8182625765,
+            40.7057217003
+          ],
+          [
+            -73.8181445594,
+            40.7054937162
+          ],
+          [
+            -73.8180386121,
+            40.7052885425
+          ],
+          [
+            -73.8179125483,
+            40.7050324081
+          ],
+          [
+            -73.8178790207,
+            40.7049465637
+          ],
+          [
+            -73.8178414697,
+            40.7048486464
+          ],
+          [
+            -73.8178253765,
+            40.704595179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9531d4270ab0f867b13008960e0f3aa0",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 2,
+        "startTime": "2024-12-24T09:03:00Z",
+        "endTime": "2024-12-24T09:46:30Z",
+        "from": "Hillside Ave (Van Wyck Expy Frontage)",
+        "to": "Atlantic Ave (Van Wyck Expy Frontage)",
+        "length": 415.094251921,
+        "delay": 213,
+        "roadNumbers": [],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 108,
+            "description": "Queuing traffic",
+            "iconCategory": 6
+          },
+          {
+            "code": 500,
+            "description": "Lane closed",
+            "iconCategory": 7
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 16953,
+              "offset": 501
+            },
+            {
+              "location": 16955,
+              "offset": 0
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8175088758,
+            40.70393269
+          ],
+          [
+            -73.8170314426,
+            40.7028476958
+          ],
+          [
+            -73.8169389064,
+            40.7026814026
+          ],
+          [
+            -73.8168986733,
+            40.7025982876
+          ],
+          [
+            -73.8168718512,
+            40.7025379211
+          ],
+          [
+            -73.8168128426,
+            40.7024333282
+          ],
+          [
+            -73.8166867788,
+            40.7021798516
+          ],
+          [
+            -73.8166358168,
+            40.7020631847
+          ],
+          [
+            -73.8165687616,
+            40.7019076285
+          ],
+          [
+            -73.8165043885,
+            40.7017868943
+          ],
+          [
+            -73.8163796658,
+            40.7015548934
+          ],
+          [
+            -73.8163018818,
+            40.7014114095
+          ],
+          [
+            -73.8160725529,
+            40.7009969694
+          ],
+          [
+            -73.8159478302,
+            40.7007717015
+          ],
+          [
+            -73.8159143026,
+            40.700709999
+          ],
+          [
+            -73.8158566351,
+            40.7006040687
+          ],
+          [
+            -73.8157681222,
+            40.7004431077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "37b4e76a7873863cd49433d0adcde4bb",
+        "iconCategory": 6,
+        "magnitudeOfDelay": 3,
+        "startTime": "2024-12-23T22:18:19Z",
+        "endTime": "2024-12-24T10:36:30Z",
+        "from": "NY-25/Queens Blvd/Exit 9 (I-678)",
+        "to": "Atlantic Ave/Exit 5 (I-678)",
+        "length": 1177.3519796161,
+        "delay": 860,
+        "roadNumbers": [
+          "I-678 S"
+        ],
+        "timeValidity": "present",
+        "probabilityOfOccurrence": "certain",
+        "numberOfReports": null,
+        "lastReportTime": null,
+        "events": [
+          {
+            "code": 101,
+            "description": "Stationary traffic",
+            "iconCategory": 6
+          },
+          {
+            "code": 500,
+            "description": "Lane closed",
+            "iconCategory": 7
+          }
+        ],
+        "tmc": {
+          "countryCode": "1",
+          "tableNumber": "20",
+          "tableVersion": "17.0",
+          "direction": "negative",
+          "points": [
+            {
+              "location": 5155,
+              "offset": 517
+            },
+            {
+              "location": 5159,
+              "offset": 274
+            }
+          ]
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8195406491,
+            40.7082671528
+          ],
+          [
+            -73.8195312614,
+            40.7082523484
+          ],
+          [
+            -73.8193891043,
+            40.7080177013
+          ],
+          [
+            -73.8192295129,
+            40.7077360349
+          ],
+          [
+            -73.8191114957,
+            40.7075281994
+          ],
+          [
+            -73.8189921374,
+            40.7073202998
+          ],
+          [
+            -73.818961292,
+            40.7072706757
+          ],
+          [
+            -73.8188888724,
+            40.7071513491
+          ],
+          [
+            -73.8188794846,
+            40.7071365445
+          ],
+          [
+            -73.8188110883,
+            40.7070118803
+          ],
+          [
+            -73.8186970944,
+            40.7068039791
+          ],
+          [
+            -73.8186514969,
+            40.7067288752
+          ],
+          [
+            -73.8186005349,
+            40.7066430331
+          ],
+          [
+            -73.818410098,
+            40.7063212035
+          ],
+          [
+            -73.8182961042,
+            40.7061374454
+          ],
+          [
+            -73.8182397778,
+            40.7060368611
+          ],
+          [
+            -73.8179581458,
+            40.70555408
+          ],
+          [
+            -73.8178682918,
+            40.7053864592
+          ],
+          [
+            -73.81756252,
+            40.7048164309
+          ],
+          [
+            -73.8174807126,
+            40.7046461395
+          ],
+          [
+            -73.817447185,
+            40.7045683644
+          ],
+          [
+            -73.8174136574,
+            40.7044905893
+          ],
+          [
+            -73.8172151739,
+            40.704050688
+          ],
+          [
+            -73.8171655531,
+            40.7039393619
+          ],
+          [
+            -73.8170904512,
+            40.7037744058
+          ],
+          [
+            -73.8170421714,
+            40.7036644772
+          ],
+          [
+            -73.8168651457,
+            40.7032768663
+          ],
+          [
+            -73.8167189653,
+            40.7029576892
+          ],
+          [
+            -73.8166532511,
+            40.702812874
+          ],
+          [
+            -73.8165942425,
+            40.7026854693
+          ],
+          [
+            -73.8165325517,
+            40.7025499944
+          ],
+          [
+            -73.8164815898,
+            40.7024427326
+          ],
+          [
+            -73.816253602,
+            40.7019545242
+          ],
+          [
+            -73.8160014743,
+            40.7014140784
+          ],
+          [
+            -73.8158526117,
+            40.701093558
+          ],
+          [
+            -73.8157292301,
+            40.7008387418
+          ],
+          [
+            -73.8156273062,
+            40.7006362227
+          ],
+          [
+            -73.8155830497,
+            40.7005477038
+          ],
+          [
+            -73.8155146534,
+            40.7004068867
+          ],
+          [
+            -73.8154288227,
+            40.7002312461
+          ],
+          [
+            -73.8153604264,
+            40.7000930973
+          ],
+          [
+            -73.8152209515,
+            40.6998154642
+          ],
+          [
+            -73.8152075405,
+            40.6997873132
+          ],
+          [
+            -73.8151820595,
+            40.6997376836
+          ],
+          [
+            -73.815021127,
+            40.6994292289
+          ],
+          [
+            -73.8149513895,
+            40.6992991489
+          ],
+          [
+            -73.8148856754,
+            40.6991744065
+          ],
+          [
+            -73.8148454423,
+            40.6991006921
+          ],
+          [
+            -73.8145503993,
+            40.6985628921
+          ],
+          [
+            -73.8144685919,
+            40.6984194018
+          ],
+          [
+            -73.8144645686,
+            40.6984099967
+          ]
+        ]
+      }
+    }
+  ]
+}

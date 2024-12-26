@@ -1,0 +1,27 @@
+{
+            "id": "f59952d3-ebf2-459a-a535-38e9b1dd0f88",
+            "lat": 40.719584,
+            "long": -73.989489,
+            "timestamp": "2024-12-18T08:08:50Z",
+            "provider": "police",
+            "title": "Orchard St",
+            "eventColor": "#17517E",
+            "eventType": "Police",
+            "mapScreenshot": "https://towtaledmap.com/?lat=40.719584&lon=-73.989489&zoom=15&w=600&h=300&hx=17517E&icon=03&ic=w&out=y&sc=70",
+            "confidenceRating": "High",
+            "reportBy": "anonymous",
+            "props": [
+                {
+                    "incident_viewed_by": "2 people"
+                },
+                {
+                    "alert_type": "Police"
+                },
+                {
+                    "reporter_reliability": "High"
+                },
+                {
+                    "reported_at": "2024-12-18T08:08:50+00:00"
+                }
+            ]
+        }
