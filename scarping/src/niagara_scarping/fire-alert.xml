@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">City of Niagara Falls Active Fire Calls</title>
+  <subtitle type="text">Active Fire Calls in the City of Niagara Falls</subtitle>
+  <id>uuid:07ac3e88-c62f-4f30-a8d1-fd827add1f0b;id=254</id>
+  <rights type="text">Copyright 2024 - The Corporation of the City of Niagara Falls</rights>
+  <updated>2024-12-24T05:37:25Z</updated>
+  <link rel="alternate" href="https://niagarafalls.ca/" />
+  <link rel="self" href="https://niagarafalls.ca/rss/active-fire-calls.xml" />
+  <entry>
+    <id>https://niagarafalls.ca/city-hall/fire/live-calls.aspx</id>
+    <title type="text">Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD</title>
+    <summary type="text">Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (DISPATCHED), R1 (DISPATCHED)</summary>
+    <published>2024-12-24T00:15:15-05:00</published>
+    <updated>2024-12-24T00:15:15-05:00</updated>
+    <author>
+      <name>Niagara Falls Fire Department</name>
+      <email>webmaster@niagarafalls.ca</email>
+    </author>
+    <link rel="alternate" href="https://niagarafalls.ca/city-hall/fire/live-calls.aspx" />
+  </entry>
+  <entry>
+    <id>https://niagarafalls.ca/city-hall/fire/live-calls.aspx</id>
+    <title type="text">Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD</title>
+    <summary type="text">Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (DISPATCHED), R1 (ENROUTE)</summary>
+    <published>2024-12-24T00:15:15-05:00</published>
+    <updated>2024-12-24T00:15:15-05:00</updated>
+    <author>
+      <name>Niagara Falls Fire Department</name>
+      <email>webmaster@niagarafalls.ca</email>
+    </author>
+    <link rel="alternate" href="https://niagarafalls.ca/city-hall/fire/live-calls.aspx" />
+  </entry>
+  <entry>
+    <id>https://niagarafalls.ca/city-hall/fire/live-calls.aspx</id>
+    <title type="text">Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD</title>
+    <summary type="text">Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (ENROUTE), R1 (ENROUTE)</summary>
+    <published>2024-12-24T00:15:15-05:00</published>
+    <updated>2024-12-24T00:15:15-05:00</updated>
+    <author>
+      <name>Niagara Falls Fire Department</name>
+      <email>webmaster@niagarafalls.ca</email>
+    </author>
+    <link rel="alternate" href="https://niagarafalls.ca/city-hall/fire/live-calls.aspx" />
+  </entry>
+  <entry>
+    <id>https://niagarafalls.ca/city-hall/fire/live-calls.aspx</id>
+    <title type="text">Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD</title>
+    <summary type="text">Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (AT SCENE), R1 (ENROUTE)</summary>
+    <published>2024-12-24T00:15:15-05:00</published>
+    <updated>2024-12-24T00:15:15-05:00</updated>
+    <author>
+      <name>Niagara Falls Fire Department</name>
+      <email>webmaster@niagarafalls.ca</email>
+    </author>
+    <link rel="alternate" href="https://niagarafalls.ca/city-hall/fire/live-calls.aspx" />
+  </entry>
+  <entry>
+    <id>https://niagarafalls.ca/city-hall/fire/live-calls.aspx</id>
+    <title type="text">Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD</title>
+    <summary type="text">Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (AT SCENE), R1 (AT SCENE)</summary>
+    <published>2024-12-24T00:15:15-05:00</published>
+    <updated>2024-12-24T00:15:15-05:00</updated>
+    <author>
+      <name>Niagara Falls Fire Department</name>
+      <email>webmaster@niagarafalls.ca</email>
+    </author>
+    <link rel="alternate" href="https://niagarafalls.ca/city-hall/fire/live-calls.aspx" />
+  </entry>
+  <entry>
+    <id>https://niagarafalls.ca/city-hall/fire/live-calls.aspx</id>
+    <title type="text">Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD</title>
+    <summary type="text">Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (AT SCENE), R1 (RETURNING)</summary>
+    <published>2024-12-24T00:15:15-05:00</published>
+    <updated>2024-12-24T00:15:15-05:00</updated>
+    <author>
+      <name>Niagara Falls Fire Department</name>
+      <email>webmaster@niagarafalls.ca</email>
+    </author>
+    <link rel="alternate" href="https://niagarafalls.ca/city-hall/fire/live-calls.aspx" />
+  </entry>
+</feed>
