@@ -1,0 +1,324 @@
+{
+  "feed": {
+    "$": {
+      "xml:lang": "en-us",
+      "xmlns": "http://www.w3.org/2005/Atom"
+    },
+    "title": [
+      {
+        "_": "City of Niagara Falls Active Fire Calls",
+        "$": {
+          "type": "text"
+        }
+      }
+    ],
+    "subtitle": [
+      {
+        "_": "Active Fire Calls in the City of Niagara Falls",
+        "$": {
+          "type": "text"
+        }
+      }
+    ],
+    "id": [
+      "uuid:07ac3e88-c62f-4f30-a8d1-fd827add1f0b;id=254"
+    ],
+    "rights": [
+      {
+        "_": "Copyright 2024 - The Corporation of the City of Niagara Falls",
+        "$": {
+          "type": "text"
+        }
+      }
+    ],
+    "updated": [
+      "2024-12-24T05:37:25Z"
+    ],
+    "link": [
+      {
+        "$": {
+          "rel": "alternate",
+          "href": "https://niagarafalls.ca/"
+        }
+      },
+      {
+        "$": {
+          "rel": "self",
+          "href": "https://niagarafalls.ca/rss/active-fire-calls.xml"
+        }
+      }
+    ],
+    "entry": [
+      {
+        "id": [
+          "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+        ],
+        "title": [
+          {
+            "_": "Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "summary": [
+          {
+            "_": "Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (DISPATCHED), R1 (DISPATCHED)",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "published": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "updated": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "author": [
+          {
+            "name": [
+              "Niagara Falls Fire Department"
+            ],
+            "email": [
+              "webmaster@niagarafalls.ca"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "alternate",
+              "href": "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+            }
+          }
+        ]
+      },
+      {
+        "id": [
+          "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+        ],
+        "title": [
+          {
+            "_": "Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "summary": [
+          {
+            "_": "Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (DISPATCHED), R1 (ENROUTE)",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "published": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "updated": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "author": [
+          {
+            "name": [
+              "Niagara Falls Fire Department"
+            ],
+            "email": [
+              "webmaster@niagarafalls.ca"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "alternate",
+              "href": "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+            }
+          }
+        ]
+      },
+      {
+        "id": [
+          "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+        ],
+        "title": [
+          {
+            "_": "Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "summary": [
+          {
+            "_": "Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (ENROUTE), R1 (ENROUTE)",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "published": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "updated": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "author": [
+          {
+            "name": [
+              "Niagara Falls Fire Department"
+            ],
+            "email": [
+              "webmaster@niagarafalls.ca"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "alternate",
+              "href": "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+            }
+          }
+        ]
+      },
+      {
+        "id": [
+          "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+        ],
+        "title": [
+          {
+            "_": "Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "summary": [
+          {
+            "_": "Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (AT SCENE), R1 (ENROUTE)",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "published": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "updated": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "author": [
+          {
+            "name": [
+              "Niagara Falls Fire Department"
+            ],
+            "email": [
+              "webmaster@niagarafalls.ca"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "alternate",
+              "href": "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+            }
+          }
+        ]
+      },
+      {
+        "id": [
+          "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+        ],
+        "title": [
+          {
+            "_": "Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "summary": [
+          {
+            "_": "Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (AT SCENE), R1 (AT SCENE)",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "published": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "updated": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "author": [
+          {
+            "name": [
+              "Niagara Falls Fire Department"
+            ],
+            "email": [
+              "webmaster@niagarafalls.ca"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "alternate",
+              "href": "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+            }
+          }
+        ]
+      },
+      {
+        "id": [
+          "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+        ],
+        "title": [
+          {
+            "_": "Active Fire Call at THOROLD STONE RD / BEAVERDAMS RD",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "summary": [
+          {
+            "_": "Active Fire Call: THOROLD STONE RD / BEAVERDAMS RD for MVC - 1 or 2 Vehicles. Units: P7 (AT SCENE), R1 (RETURNING)",
+            "$": {
+              "type": "text"
+            }
+          }
+        ],
+        "published": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "updated": [
+          "2024-12-24T00:15:15-05:00"
+        ],
+        "author": [
+          {
+            "name": [
+              "Niagara Falls Fire Department"
+            ],
+            "email": [
+              "webmaster@niagarafalls.ca"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "alternate",
+              "href": "https://niagarafalls.ca/city-hall/fire/live-calls.aspx"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
